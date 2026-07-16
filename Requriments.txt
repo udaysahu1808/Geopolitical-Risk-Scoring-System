@@ -5,6 +5,7 @@ numpy>=2.3.5
 # Data Visualization
 matplotlib>=3.10.0
 seaborn>=0.13.2
+plotly>=5.24.0
 
 # Database Connectivity
 mysql-connector-python>=9.7.0
@@ -15,9 +16,15 @@ sqlalchemy>=2.0.43
 scikit-learn>=1.5.0
 xgboost>=1.6.2
 scipy>=1.14.0
+joblib>=1.4.2
 
 # Model Explainability
 shap>=0.46.0
+
+# Automated EDA
+ydata-profiling>=4.12.0
+sweetviz>=2.3.1
+dtale>=3.16.0
 
 # Notebook Environment
 jupyter>=1.1.1
@@ -26,3 +33,11 @@ ipykernel>=6.29.5
 
 # Excel Support
 openpyxl>=3.1.5
+xlrd>=2.0.1
+
+# Statistical Analysis
+statsmodels>=0.14.2
+
+# Utilities
+tqdm>=4.67.1
+python-dotenv>=1.0.1

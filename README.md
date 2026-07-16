@@ -532,5 +532,12 @@ This project and all associated files are provided for viewing and portfolio dem
 
 ## 🙋 Author
 
-**Data Science Project | Geopolitical Risk & Conflict Analytics Domain**
+**Uday Sahu**
 
+**Data Analyst | Python | SQL | Power BI | Data Visualization | Business Analytics**
+
+Passionate about transforming raw data into meaningful business insights through analytics, visualization, and automation.
+
+---
+
+⭐ **If you found this project helpful, consider giving it a Star!**

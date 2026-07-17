@@ -15,7 +15,7 @@
 ![Anomaly Detection](https://img.shields.io/badge/Task-Anomaly%20Detection-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-A comprehensive end-to-end data analytics and machine learning project that transforms historical conflict data (WW1 & WW2) and simulated modern-day escalation scenarios (WW3) into a quantified **Geopolitical Risk Index (0–100)** — paired with SQL-based analytics, predictive risk-tier classification, anomaly detection, conflict archetype clustering, and an interactive Power BI dashboard.
+A comprehensive end-to-end data analytics and machine learning project that transforms historical conflict data (WW1 & WW2) and simulated modern-day escalation scenarios (WW3) into a quantified **Geopolitical Risk Index (0–100)** paired with SQL based analytics, predictive risk-tier classification, anomaly detection, conflict archetype clustering and an interactive Power BI dashboard.
 
 ---
 
@@ -39,17 +39,17 @@ A comprehensive end-to-end data analytics and machine learning project that tran
 
 ## Project Introduction
 
-Global geopolitical events — armed conflicts, political instability, economic sanctions, terrorism, cyber warfare, and diplomatic disputes — create significant uncertainty for governments, multinational organizations, financial institutions, and businesses. Although large volumes of geopolitical data are publicly available, converting this raw information into a meaningful, quantified risk assessment remains a major challenge.
+Global geopolitical events — armed conflicts, political instability, economic sanctions, terrorism, cyber warfare, and diplomatic disputes — create significant uncertainty for governments, multinational organizations, financial institutions and businesses. Although large volumes of geopolitical data are publicly available, converting this raw information into a meaningful, quantified risk assessment remains a major challenge.
 
-This project follows a complete analytics pipeline: data collection and storage in **MySQL**, SQL-based business analytics, exploratory data analysis (EDA), feature engineering, a custom-built **Geopolitical Risk Index**, machine learning model development (classification, clustering, and anomaly detection), and an interactive **Power BI** dashboard.
+This project follows a complete analytics pipeline: data collection and storage in **MySQL**, SQL-based business analytics, exploratory data analysis (EDA), feature engineering, a custom-built **Geopolitical Risk Index**, machine learning model development (classification, clustering, and anomaly detection) and an interactive **Power BI** dashboard.
 
-By integrating Python, SQL, Machine Learning, and Business Intelligence into a unified workflow, the system enables analysts to identify geopolitical risk patterns, benchmark historical conflicts, and predict the severity of emerging risk scenarios for informed strategic decision-making.
+By integrating Python, SQL, Machine Learning, and Business Intelligence into a unified workflow, the system enables analysts to identify geopolitical risk patterns, benchmark historical conflicts and predict the severity of emerging risk scenarios for informed strategic decision-making.
 
 ---
 
 ## 📖 Problem Statement
 
-Large volumes of geopolitical and historical conflict data are publicly available, but the absence of an integrated analytical framework makes it difficult to efficiently store, analyze, visualize, and predict geopolitical risk. A common challenge faced by analysts, governments, and businesses is determining:
+Large volumes of geopolitical and historical conflict data are publicly available, but the absence of an integrated analytical framework makes it difficult to efficiently store, analyze, visualize and predict geopolitical risk. A common challenge faced by analysts, governments, and businesses is determining:
 
 - Which factors (escalation, nuclear capability, cyber threat, economic impact, probability) contribute most to overall geopolitical risk.
 - How historical conflict patterns (WW1, WW2) compare with modern escalation scenarios (WW3).
@@ -86,13 +86,13 @@ To develop an end-to-end Geopolitical Risk Scoring System by integrating MySQL, 
 The scope of this project covers the complete lifecycle of a modern data analytics solution:
 
 - **Data Cleaning & Preprocessing** — standardizing WW1/WW2 schemas, merging into a unified historical dataset, handling missing values in WW3 scenarios.
-- **MySQL Database Design & Management** — storage of raw, cleaned, scored, and ML-enriched tables.
+- **MySQL Database Design & Management** — storage of raw, cleaned, scored and ML-enriched tables.
 - **SQL Queries & Business Analytics** — casualty analysis, theater/country rankings, escalation and nuclear-risk cross-tabs.
-- **Exploratory Data Analysis (EDA)** — distributions, correlations, heatmaps, radar charts, and year-wise trends.
-- **Feature Engineering** — total casualties, casualty rate %, and a five-component weighted risk score.
+- **Exploratory Data Analysis (EDA)** — distributions, correlations, heatmaps, radar charts and year-wise trends.
+- **Feature Engineering** — total casualties, casualty rate % and a five-component weighted risk score.
 - **Machine Learning** — multi-class risk-tier classification, Isolation Forest anomaly detection, K-Means conflict archetype clustering.
 - **Model Evaluation** — accuracy, confusion matrix, classification report, feature importance.
-- **Interactive Power BI Dashboard Development** — executive summary, historical conflicts, regional ranking, WW3 scenarios, and ML insights.
+- **Interactive Power BI Dashboard Development** — executive summary, historical conflicts, regional ranking, WW3 scenarios and ML insights.
 
 The study is limited to the available historical and simulated datasets and focuses on predictive analytics rather than real-time monitoring or live event forecasting.
 
@@ -103,12 +103,12 @@ The study is limited to the available historical and simulated datasets and focu
 This project demonstrates how an integrated analytics pipeline can convert raw historical and scenario-based geopolitical data into valuable business intelligence and predictive insight. It is beneficial for:
 
 - **Governments** — monitoring geopolitical stability and prioritizing diplomatic engagement.
-- **Businesses & financial institutions** — evaluating operational, investment, and market risk.
+- **Businesses & financial institutions** — evaluating operational, investment and market risk.
 - **Researchers & analysts** — studying historical conflict patterns and modern escalation dynamics.
-- **Students** — gaining practical, industry-standard experience with SQL, ML, and BI tooling.
+- **Students** — gaining practical, industry-standard experience with SQL, ML and BI tooling.
 - **Organizations** — improving strategic, data-driven decision-making.
 
-Additionally, the project serves as a portfolio piece demonstrating real-world application of Data Analytics, SQL, Machine Learning, and Business Intelligence in a single workflow.
+Additionally, the project serves as a portfolio piece demonstrating real-world application of Data Analytics, SQL, Machine Learning and Business Intelligence in a single workflow.
 
 ---
 

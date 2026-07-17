@@ -1,0 +1,141 @@
+conflict,alliance,country,theater,mil_casualties_k,civ_casualties_k,total_casualties_k,avg_personnel_k
+WW1,Allied Powers,Belgium,Africa,46188.96,31366.52,77555.48,1471.84
+WW1,Allied Powers,Belgium,Air,50708.85,35776.93,86485.78,1414.67
+WW1,Allied Powers,Belgium,Balkans,50822.99,38220.3,89043.29,1532.04
+WW1,Allied Powers,Belgium,Eastern Front,54677.63,41911.89,96589.52,1598.34
+WW1,Allied Powers,Belgium,Italian Front,46577.93,33678.09,80256.02,1362.83
+WW1,Allied Powers,Belgium,Middle East,61098.41,41261.21,102359.62,1517.36
+WW1,Allied Powers,Belgium,Naval,59814.15,37577.41,97391.56,1602.08
+WW1,Allied Powers,Belgium,Western Front,45988.87,33012.49,79001.36,1515.85
+WW1,Allied Powers,France,Africa,53269.75,35484.15,88753.9,1527.81
+WW1,Allied Powers,France,Air,52266.71,29000.35,81267.06,1673.12
+WW1,Allied Powers,France,Balkans,54021.29,36807.41,90828.7,1530.94
+WW1,Allied Powers,France,Eastern Front,51921.66,45465.25,97386.91,1411.99
+WW1,Allied Powers,France,Italian Front,59244.57,36053.49,95298.06,1579.56
+WW1,Allied Powers,France,Middle East,53418.15,37569.28,90987.43,1570.53
+WW1,Allied Powers,France,Naval,61559.16,43321.7,104880.86,1447.99
+WW1,Allied Powers,France,Western Front,50652.04,35950.33,86602.37,1599.24
+WW1,Allied Powers,Italy,Africa,53038.09,32644.24,85682.33,1501.29
+WW1,Allied Powers,Italy,Air,54804.37,44748.75,99553.12,1557.54
+WW1,Allied Powers,Italy,Balkans,41953.08,28572.08,70525.16,1506.68
+WW1,Allied Powers,Italy,Eastern Front,49602.3,32869.44,82471.74,1534.82
+WW1,Allied Powers,Italy,Italian Front,60498.94,39228.39,99727.33,1645.07
+WW1,Allied Powers,Italy,Middle East,55081.67,34231.49,89313.16,1562.88
+WW1,Allied Powers,Italy,Naval,56479.76,40050.97,96530.73,1562.19
+WW1,Allied Powers,Italy,Western Front,47092.42,31441.99,78534.41,1576.4
+WW1,Allied Powers,Russia,Africa,58272.57,36393.65,94666.22,1635.37
+WW1,Allied Powers,Russia,Air,73489.93,47217.9,120707.83,1623.51
+WW1,Allied Powers,Russia,Balkans,54180.74,41046.46,95227.2,1597.79
+WW1,Allied Powers,Russia,Eastern Front,51753.96,36976.2,88730.16,1420.27
+WW1,Allied Powers,Russia,Italian Front,52856.66,33824.48,86681.14,1578.33
+WW1,Allied Powers,Russia,Middle East,51242.33,36929.29,88171.62,1531.66
+WW1,Allied Powers,Russia,Naval,59426.44,36542.1,95968.54,1484.39
+WW1,Allied Powers,Russia,Western Front,57305.59,35915.43,93221.02,1539.8
+WW1,Allied Powers,Serbia,Africa,72453.11,38699.79,111152.9,1579.92
+WW1,Allied Powers,Serbia,Air,60192.49,38652.43,98844.92,1503.47
+WW1,Allied Powers,Serbia,Balkans,50355.47,35770.54,86126.01,1472.14
+WW1,Allied Powers,Serbia,Eastern Front,62162.83,41999.91,104162.74,1562.94
+WW1,Allied Powers,Serbia,Italian Front,55375.26,40311.18,95686.44,1568.85
+WW1,Allied Powers,Serbia,Middle East,54176.28,32675.39,86851.67,1703.7
+WW1,Allied Powers,Serbia,Naval,60027.6,46659.59,106687.19,1588.21
+WW1,Allied Powers,Serbia,Western Front,51713.7,32835.47,84549.17,1669.79
+WW1,Allied Powers,United Kingdom,Africa,48504.15,34279.89,82784.04,1557.44
+WW1,Allied Powers,United Kingdom,Air,62445.23,42083.7,104528.93,1450.37
+WW1,Allied Powers,United Kingdom,Balkans,62558.03,41767.05,104325.08,1433.07
+WW1,Allied Powers,United Kingdom,Eastern Front,58103.03,40561.5,98664.53,1323.9
+WW1,Allied Powers,United Kingdom,Italian Front,54720.09,39475.54,94195.63,1581.0
+WW1,Allied Powers,United Kingdom,Middle East,71636.36,42435.58,114071.94,1578.07
+WW1,Allied Powers,United Kingdom,Naval,58214.93,39970.83,98185.76,1588.88
+WW1,Allied Powers,United Kingdom,Western Front,62950.19,41220.73,104170.92,1528.46
+WW1,Allied Powers,United States,Africa,52140.85,37345.65,89486.5,1521.08
+WW1,Allied Powers,United States,Air,55902.29,39714.26,95616.55,1575.87
+WW1,Allied Powers,United States,Balkans,48310.33,36196.96,84507.29,1525.2
+WW1,Allied Powers,United States,Eastern Front,62646.18,43821.06,106467.24,1481.57
+WW1,Allied Powers,United States,Italian Front,57372.89,33874.86,91247.75,1549.39
+WW1,Allied Powers,United States,Middle East,50947.18,31181.74,82128.92,1446.17
+WW1,Allied Powers,United States,Naval,58192.64,38590.0,96782.64,1622.94
+WW1,Allied Powers,United States,Western Front,60184.74,41001.5,101186.24,1505.07
+WW1,Central Powers,Austria-Hungary,Africa,58662.96,37625.91,96288.87,1569.33
+WW1,Central Powers,Austria-Hungary,Air,58153.55,36804.63,94958.18,1348.98
+WW1,Central Powers,Austria-Hungary,Balkans,58901.44,36646.14,95547.58,1538.8
+WW1,Central Powers,Austria-Hungary,Eastern Front,61041.46,42145.57,103187.03,1409.49
+WW1,Central Powers,Austria-Hungary,Italian Front,49706.99,35867.4,85574.39,1458.83
+WW1,Central Powers,Austria-Hungary,Middle East,47482.42,34169.59,81652.01,1598.52
+WW1,Central Powers,Austria-Hungary,Naval,52601.43,33534.86,86136.29,1514.49
+WW1,Central Powers,Austria-Hungary,Western Front,59031.95,40125.67,99157.62,1571.91
+WW1,Central Powers,Germany,Africa,58385.88,37554.28,95940.16,1708.17
+WW1,Central Powers,Germany,Air,67688.26,43911.65,111599.91,1540.5
+WW1,Central Powers,Germany,Balkans,67150.22,44113.17,111263.39,1577.17
+WW1,Central Powers,Germany,Eastern Front,57185.19,39133.64,96318.83,1419.98
+WW1,Central Powers,Germany,Italian Front,63956.23,42917.36,106873.59,1479.08
+WW1,Central Powers,Germany,Middle East,50581.93,38513.96,89095.89,1486.49
+WW1,Central Powers,Germany,Naval,52362.46,37669.15,90031.61,1402.58
+WW1,Central Powers,Germany,Western Front,41991.25,28723.73,70714.98,1370.95
+WW1,Central Powers,Ottoman Empire,Africa,54660.45,38562.09,93222.54,1238.48
+WW1,Central Powers,Ottoman Empire,Air,56632.8,40486.1,97118.9,1557.63
+WW1,Central Powers,Ottoman Empire,Balkans,55485.01,42733.92,98218.93,1514.06
+WW1,Central Powers,Ottoman Empire,Eastern Front,69268.87,46507.15,115776.02,1375.2
+WW1,Central Powers,Ottoman Empire,Italian Front,43797.8,34283.62,78081.42,1551.46
+WW1,Central Powers,Ottoman Empire,Middle East,58738.28,37469.53,96207.81,1519.05
+WW1,Central Powers,Ottoman Empire,Naval,48009.17,33427.17,81436.34,1465.78
+WW1,Central Powers,Ottoman Empire,Western Front,62660.65,42772.76,105433.41,1435.84
+WW2,Allies,Canada,Asia,152089.4,120541.56,272630.96,2541.17
+WW2,Allies,Canada,Atlantic,120260.29,98944.33,219204.62,2759.85
+WW2,Allies,Canada,Eastern Front,116377.79,92732.95,209110.74,2567.9
+WW2,Allies,Canada,European,116372.18,88057.6,204429.78,2680.11
+WW2,Allies,Canada,North Africa,137656.81,100921.84,238578.65,2545.65
+WW2,Allies,Canada,Pacific,118498.61,97746.3,216244.91,2555.1
+WW2,Allies,China,Asia,118536.56,105231.03,223767.59,2422.97
+WW2,Allies,China,Atlantic,131733.55,105180.71,236914.26,2616.18
+WW2,Allies,China,Eastern Front,129748.72,92588.0,222336.72,2542.44
+WW2,Allies,China,European,121226.37,90143.35,211369.72,2524.86
+WW2,Allies,China,North Africa,124513.85,98139.51,222653.36,2594.52
+WW2,Allies,China,Pacific,112862.4,98176.86,211039.26,2493.97
+WW2,Allies,France,Asia,132645.39,106805.97,239451.36,2541.41
+WW2,Allies,France,Atlantic,129457.14,118582.55,248039.69,2508.1
+WW2,Allies,France,Eastern Front,133654.0,106776.47,240430.47,2483.83
+WW2,Allies,France,European,122392.86,96229.29,218622.15,2363.68
+WW2,Allies,France,North Africa,125041.53,111706.42,236747.95,2520.04
+WW2,Allies,France,Pacific,127034.74,100599.78,227634.52,2561.91
+WW2,Allies,Poland,Asia,126828.48,97242.39,224070.87,2477.61
+WW2,Allies,Poland,Atlantic,115128.89,91830.29,206959.18,2633.66
+WW2,Allies,Poland,Eastern Front,118676.58,102555.99,221232.57,2644.95
+WW2,Allies,Poland,European,112745.64,97462.59,210208.23,2604.96
+WW2,Allies,Poland,North Africa,125884.89,95008.39,220893.28,2603.15
+WW2,Allies,Poland,Pacific,126525.77,101470.77,227996.54,2445.78
+WW2,Allies,Soviet Union,Asia,129400.36,99745.32,229145.68,2395.06
+WW2,Allies,Soviet Union,Atlantic,121831.42,93839.21,215670.63,2645.14
+WW2,Allies,Soviet Union,Eastern Front,136682.32,109834.43,246516.75,2542.34
+WW2,Allies,Soviet Union,European,126900.61,98667.94,225568.55,2446.41
+WW2,Allies,Soviet Union,North Africa,114290.09,87662.18,201952.27,2382.95
+WW2,Allies,Soviet Union,Pacific,130810.97,109049.75,239860.72,2585.1
+WW2,Allies,United Kingdom,Asia,126018.52,108742.51,234761.03,2554.17
+WW2,Allies,United Kingdom,Atlantic,120869.83,94801.94,215671.77,2479.47
+WW2,Allies,United Kingdom,Eastern Front,123133.61,96959.49,220093.1,2611.52
+WW2,Allies,United Kingdom,European,141211.82,101072.34,242284.16,2574.43
+WW2,Allies,United Kingdom,North Africa,127833.59,105490.01,233323.6,2477.96
+WW2,Allies,United Kingdom,Pacific,145601.21,94761.27,240362.48,2566.45
+WW2,Allies,United States,Asia,127159.14,94004.8,221163.94,2587.73
+WW2,Allies,United States,Atlantic,123913.31,103424.62,227337.93,2547.41
+WW2,Allies,United States,Eastern Front,126411.0,108862.23,235273.23,2505.45
+WW2,Allies,United States,European,139163.07,103096.4,242259.47,2511.87
+WW2,Allies,United States,North Africa,121829.71,93199.3,215029.01,2248.44
+WW2,Allies,United States,Pacific,126105.75,102782.18,228887.93,2586.79
+WW2,Axis,Germany,Asia,126979.09,99599.32,226578.41,2352.7
+WW2,Axis,Germany,Atlantic,112797.18,84361.29,197158.47,2440.79
+WW2,Axis,Germany,Eastern Front,117650.02,95555.22,213205.24,2568.32
+WW2,Axis,Germany,European,125795.99,103096.3,228892.29,2509.59
+WW2,Axis,Germany,North Africa,120763.19,102709.63,223472.82,2693.35
+WW2,Axis,Germany,Pacific,118271.42,93990.39,212261.81,2417.95
+WW2,Axis,Italy,Asia,135678.86,103126.36,238805.22,2719.4
+WW2,Axis,Italy,Atlantic,140379.11,120410.35,260789.46,2633.44
+WW2,Axis,Italy,Eastern Front,143528.27,112694.74,256223.01,2516.4
+WW2,Axis,Italy,European,130993.7,106129.79,237123.49,2755.83
+WW2,Axis,Italy,North Africa,127142.58,105563.06,232705.64,2518.99
+WW2,Axis,Italy,Pacific,117552.99,94145.77,211698.76,2363.67
+WW2,Axis,Japan,Asia,119021.54,95387.69,214409.23,2504.95
+WW2,Axis,Japan,Atlantic,118693.87,104241.15,222935.02,2638.94
+WW2,Axis,Japan,Eastern Front,123373.76,86569.96,209943.72,2418.99
+WW2,Axis,Japan,European,122370.65,102878.23,225248.88,2616.96
+WW2,Axis,Japan,North Africa,119377.93,99943.02,219320.95,2590.58
+WW2,Axis,Japan,Pacific,132425.09,111688.53,244113.62,2652.56

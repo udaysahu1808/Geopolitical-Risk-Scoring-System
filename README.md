@@ -522,11 +522,19 @@ jupyter notebook
 
 ## 📄 License
 
-Copyright (c) 2026
+Copyright © 2026 Uday Sahu
 
 All Rights Reserved.
 
-This project and all associated files are provided for viewing and portfolio demonstration purposes only. No part of this project may be reproduced, copied, modified, distributed, published, sublicensed, or sold in any form without prior written permission from the copyright holder. Unauthorized use of this project is strictly prohibited.
+This project and all associated files, including but not limited to source code, notebooks, reports, dashboards, visualizations, documentation, and datasets, are the exclusive intellectual property of Uday Sahu.
+
+No part of this project may be copied, reproduced, modified, distributed, published, sublicensed, displayed, transmitted, or sold in any form or by any means without the prior written permission of the copyright holder.
+
+Permission is granted only to view this project for personal, educational, or portfolio evaluation purposes. Commercial use, redistribution, and creation of derivative works are strictly prohibited.
+
+Unauthorized use, reproduction, or distribution of this project may result in legal action under applicable copyright laws.
+
+For permissions or licensing inquiries, please contact the copyright holder directly.
 
 ---
 

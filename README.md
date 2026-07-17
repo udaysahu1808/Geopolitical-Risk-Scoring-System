@@ -15,7 +15,7 @@
 ![Anomaly Detection](https://img.shields.io/badge/Task-Anomaly%20Detection-success)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-A comprehensive end-to-end data analytics and machine learning project that transforms historical conflict data (WW1 & WW2) and simulated modern-day escalation scenarios (WW3) into a quantified **Geopolitical Risk Index (0–100)** paired with SQL based analytics, predictive risk-tier classification, anomaly detection, conflict archetype clustering and an interactive Power BI dashboard.
+A comprehensive end to end data analytics and machine learning project that transforms historical conflict data (WW1 & WW2) and simulated modern day escalation scenarios (WW3) into a quantified **Geopolitical Risk Index (0–100)** paired with SQL based analytics, predictive risk-tier classification, anomaly detection, conflict archetype clustering and an interactive Power BI dashboard.
 
 ---
 
@@ -39,7 +39,7 @@ A comprehensive end-to-end data analytics and machine learning project that tran
 
 ## Project Introduction
 
-Global geopolitical events — armed conflicts, political instability, economic sanctions, terrorism, cyber warfare, and diplomatic disputes — create significant uncertainty for governments, multinational organizations, financial institutions and businesses. Although large volumes of geopolitical data are publicly available, converting this raw information into a meaningful, quantified risk assessment remains a major challenge.
+Global geopolitical events armed conflicts, political instability, economic sanctions, terrorism, cyber warfare and diplomatic disputes create significant uncertainty for governments, multinational organizations, financial institutions and businesses. Although large volumes of geopolitical data are publicly available, converting this raw information into a meaningful, quantified risk assessment remains a major challenge.
 
 This project follows a complete analytics pipeline: data collection and storage in **MySQL**, SQL-based business analytics, exploratory data analysis (EDA), feature engineering, a custom-built **Geopolitical Risk Index**, machine learning model development (classification, clustering, and anomaly detection) and an interactive **Power BI** dashboard.
 

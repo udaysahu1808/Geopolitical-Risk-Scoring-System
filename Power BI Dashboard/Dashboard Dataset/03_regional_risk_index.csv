@@ -1,0 +1,6 @@
+region,avg_risk_index,max_risk_index,num_scenarios,critical_count,avg_probability
+East Asia,49.52,99.6,2026,187,0.43
+Eastern Europe,49.79,95.5,2065,189,0.43
+Latin America,49.68,100.0,1981,173,0.45
+Middle East,49.86,98.4,1931,178,0.43
+South Asia,50.02,95.5,1997,180,0.43

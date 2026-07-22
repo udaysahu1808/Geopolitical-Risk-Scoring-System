@@ -1,0 +1,93 @@
+conflict,equipment_focus,theater,avg_casualties_k,count
+WW1,Artillery,Africa,481.99,174
+WW1,Artillery,Air,463.48,203
+WW1,Artillery,Balkans,464.04,179
+WW1,Artillery,Eastern Front,427.99,172
+WW1,Artillery,Italian Front,444.69,176
+WW1,Artillery,Middle East,435.31,148
+WW1,Artillery,Naval,450.53,176
+WW1,Artillery,Western Front,419.99,177
+WW1,Biplanes,Africa,451.56,187
+WW1,Biplanes,Air,413.82,196
+WW1,Biplanes,Balkans,408.59,182
+WW1,Biplanes,Eastern Front,473.96,168
+WW1,Biplanes,Italian Front,467.3,180
+WW1,Biplanes,Middle East,482.61,191
+WW1,Biplanes,Naval,437.83,201
+WW1,Biplanes,Western Front,443.28,188
+WW1,Gas,Africa,443.43,162
+WW1,Gas,Air,434.43,178
+WW1,Gas,Balkans,452.12,175
+WW1,Gas,Eastern Front,426.7,184
+WW1,Gas,Italian Front,464.33,172
+WW1,Gas,Middle East,447.63,177
+WW1,Gas,Naval,410.55,196
+WW1,Gas,Western Front,430.77,156
+WW1,Machine Guns,Africa,452.4,174
+WW1,Machine Guns,Air,430.11,168
+WW1,Machine Guns,Balkans,402.02,198
+WW1,Machine Guns,Eastern Front,437.55,183
+WW1,Machine Guns,Italian Front,459.43,168
+WW1,Machine Guns,Middle East,463.36,171
+WW1,Machine Guns,Naval,470.01,195
+WW1,Machine Guns,Western Front,458.34,172
+WW1,Submarines,Africa,460.91,183
+WW1,Submarines,Air,484.04,177
+WW1,Submarines,Balkans,428.21,169
+WW1,Submarines,Eastern Front,479.43,195
+WW1,Submarines,Italian Front,437.63,171
+WW1,Submarines,Middle East,458.21,175
+WW1,Submarines,Naval,453.35,170
+WW1,Submarines,Western Front,420.84,173
+WW1,Tanks,Africa,447.55,150
+WW1,Tanks,Air,461.72,195
+WW1,Tanks,Balkans,458.13,164
+WW1,Tanks,Eastern Front,454.97,197
+WW1,Tanks,Italian Front,431.54,182
+WW1,Tanks,Middle East,428.61,179
+WW1,Tanks,Naval,438.39,155
+WW1,Tanks,Western Front,444.4,195
+WW1,Trench Warfare,Africa,478.85,178
+WW1,Trench Warfare,Air,468.32,196
+WW1,Trench Warfare,Balkans,442.49,181
+WW1,Trench Warfare,Eastern Front,427.81,195
+WW1,Trench Warfare,Italian Front,429.53,166
+WW1,Trench Warfare,Middle East,463.06,178
+WW1,Trench Warfare,Naval,462.08,178
+WW1,Trench Warfare,Western Front,446.77,171
+WW2,Aircraft Carriers,Asia,751.27,313
+WW2,Aircraft Carriers,Atlantic,739.62,315
+WW2,Aircraft Carriers,Eastern Front,809.54,261
+WW2,Aircraft Carriers,European,778.26,264
+WW2,Aircraft Carriers,North Africa,729.42,301
+WW2,Aircraft Carriers,Pacific,767.83,270
+WW2,Armored Warfare,Asia,735.01,284
+WW2,Armored Warfare,Atlantic,729.49,298
+WW2,Armored Warfare,Eastern Front,787.07,288
+WW2,Armored Warfare,European,772.08,255
+WW2,Armored Warfare,North Africa,779.09,251
+WW2,Armored Warfare,Pacific,786.13,285
+WW2,Infantry,Asia,774.71,271
+WW2,Infantry,Atlantic,769.29,251
+WW2,Infantry,Eastern Front,717.84,255
+WW2,Infantry,European,760.35,285
+WW2,Infantry,North Africa,737.65,280
+WW2,Infantry,Pacific,782.42,322
+WW2,Radar,Asia,761.42,276
+WW2,Radar,Atlantic,765.33,255
+WW2,Radar,Eastern Front,767.89,277
+WW2,Radar,European,775.14,295
+WW2,Radar,North Africa,734.61,275
+WW2,Radar,Pacific,686.82,268
+WW2,Strategic Bombing,Asia,774.2,279
+WW2,Strategic Bombing,Atlantic,687.5,287
+WW2,Strategic Bombing,Eastern Front,779.8,301
+WW2,Strategic Bombing,European,759.72,273
+WW2,Strategic Bombing,North Africa,752.28,284
+WW2,Strategic Bombing,Pacific,723.02,276
+WW2,Submarines,Asia,724.22,296
+WW2,Submarines,Atlantic,762.96,261
+WW2,Submarines,Eastern Front,769.32,261
+WW2,Submarines,European,797.12,256
+WW2,Submarines,North Africa,761.09,272
+WW2,Submarines,Pacific,728.82,259

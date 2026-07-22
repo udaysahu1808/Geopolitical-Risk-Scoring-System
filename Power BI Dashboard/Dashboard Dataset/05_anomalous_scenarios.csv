@@ -1,0 +1,501 @@
+issue_label,region,escalation_level,nuclear_risk,risk_index,risk_tier,anomaly_score
+Russia-Ukraine Conflict,South Asia,Low,None,0.0,🟢 Low,-0.6424613839112894
+Venezuela-US Tensions 2026,Middle East,Low,None,0.0,🟢 Low,-0.6424613839112894
+Venezuela-US Tensions 2026,Eastern Europe,Low,None,0.3,🟢 Low,-0.6393752468000599
+Russia-Ukraine Conflict,Latin America,Severe,High,100.0,🔴 Critical,-0.6391530791204795
+Russia-Ukraine Conflict,East Asia,Severe,High,99.6,🔴 Critical,-0.6365636851626464
+Venezuela-US Tensions 2026,Latin America,Severe,High,99.8,🔴 Critical,-0.6361331405513139
+Korean Peninsula Risk,Middle East,Low,None,9.4,🟢 Low,-0.6335367149656301
+India-Pakistan Escalation 2025,South Asia,Low,None,0.9,🟢 Low,-0.6335094673213759
+Taiwan Strait Stability,South Asia,Low,None,9.6,🟢 Low,-0.6321633816790376
+Taiwan Strait Stability,South Asia,Moderate,None,6.0,🟢 Low,-0.6308443037007461
+India-Pakistan Escalation 2025,Middle East,Moderate,None,6.0,🟢 Low,-0.6308443037007461
+Taiwan Strait Stability,Eastern Europe,Low,None,9.6,🟢 Low,-0.6291764687770867
+Venezuela-US Tensions 2026,Latin America,Severe,High,99.2,🔴 Critical,-0.6290096516251815
+Korean Peninsula Risk,Middle East,Severe,High,90.4,🔴 Critical,-0.628443852034951
+India-Pakistan Escalation 2025,Eastern Europe,Severe,High,90.2,🔴 Critical,-0.628355675714831
+Korean Peninsula Risk,Latin America,Moderate,None,6.1,🟢 Low,-0.6273893438933387
+Korean Peninsula Risk,Middle East,Severe,High,98.4,🔴 Critical,-0.6267973925742433
+Russia-Ukraine Conflict,East Asia,Severe,High,98.9,🔴 Critical,-0.6267973925742433
+India-Pakistan Escalation 2025,East Asia,Severe,High,98.9,🔴 Critical,-0.6267973925742433
+India-Pakistan Escalation 2025,Latin America,Severe,High,98.7,🔴 Critical,-0.6263734534679758
+India-Pakistan Escalation 2025,Middle East,High,High,93.7,🔴 Critical,-0.6248806800588376
+Russia-Ukraine Conflict,Latin America,Moderate,None,6.6,🟢 Low,-0.6244613081100586
+Taiwan Strait Stability,Middle East,Severe,High,98.3,🔴 Critical,-0.6236978205109586
+Russia-Ukraine Conflict,East Asia,Severe,High,94.2,🔴 Critical,-0.623648037345412
+Taiwan Strait Stability,Middle East,Severe,High,89.6,🔴 Critical,-0.623274687773042
+Venezuela-US Tensions 2026,South Asia,Moderate,None,6.7,🟢 Low,-0.6223424029709707
+Venezuela-US Tensions 2026,Middle East,Low,None,10.1,🟢 Low,-0.6219995627019437
+Taiwan Strait Stability,East Asia,Severe,High,96.4,🔴 Critical,-0.6200188757349271
+Russia-Ukraine Conflict,Latin America,Severe,High,89.0,🔴 Critical,-0.619813305481897
+India-Pakistan Escalation 2025,Eastern Europe,Low,None,3.4,🟢 Low,-0.6191099898682852
+Russia-Ukraine Conflict,East Asia,Low,None,2.6,🟢 Low,-0.6174609010727832
+Venezuela-US Tensions 2026,East Asia,Severe,High,94.1,🔴 Critical,-0.6173921061953123
+Taiwan Strait Stability,East Asia,Low,None,6.0,🟢 Low,-0.6172944283633682
+Russia-Ukraine Conflict,South Asia,Severe,High,76.0,🔴 Critical,-0.6165796624152827
+Israel-Arab Tensions,East Asia,Severe,High,88.7,🔴 Critical,-0.6153615213981266
+Taiwan Strait Stability,East Asia,High,High,93.2,🔴 Critical,-0.6143717692361029
+India-Pakistan Escalation 2025,East Asia,High,High,93.2,🔴 Critical,-0.6139562342931508
+Israel-Arab Tensions,East Asia,Severe,None,32.9,🟡 Moderate,-0.6136994220012474
+Korean Peninsula Risk,Eastern Europe,Severe,High,94.0,🔴 Critical,-0.6134875328194569
+Korean Peninsula Risk,South Asia,Low,None,10.3,🟢 Low,-0.6134504311895908
+India-Pakistan Escalation 2025,Middle East,Severe,High,95.9,🔴 Critical,-0.6134046969268637
+Korean Peninsula Risk,Latin America,Severe,High,86.2,🔴 Critical,-0.6128385932643545
+India-Pakistan Escalation 2025,South Asia,Severe,High,93.7,🔴 Critical,-0.6124857087395491
+India-Pakistan Escalation 2025,Middle East,Severe,High,93.7,🔴 Critical,-0.6124857087395491
+Taiwan Strait Stability,Middle East,Severe,High,86.1,🔴 Critical,-0.6124240952964424
+Israel-Arab Tensions,Latin America,Moderate,None,9.4,🟢 Low,-0.6123837877363194
+Russia-Ukraine Conflict,South Asia,Severe,High,85.4,🔴 Critical,-0.6121309128870099
+India-Pakistan Escalation 2025,South Asia,Moderate,None,7.6,🟢 Low,-0.6118389311971681
+India-Pakistan Escalation 2025,South Asia,Severe,High,86.0,🔴 Critical,-0.6115959402174078
+India-Pakistan Escalation 2025,Middle East,High,High,92.6,🔴 Critical,-0.6114689200402957
+Taiwan Strait Stability,East Asia,Low,None,6.1,🟢 Low,-0.6113298258659577
+Israel-Arab Tensions,Middle East,Low,None,3.7,🟢 Low,-0.6111284234727962
+Taiwan Strait Stability,Middle East,Severe,High,95.3,🔴 Critical,-0.6107662513068295
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,93.9,🔴 Critical,-0.6107446469508173
+Israel-Arab Tensions,South Asia,Severe,High,95.5,🔴 Critical,-0.6103531549829058
+Russia-Ukraine Conflict,East Asia,High,High,92.9,🔴 Critical,-0.6102290442802626
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,82.1,🔴 Critical,-0.6099594595717799
+Russia-Ukraine Conflict,South Asia,Severe,High,88.2,🔴 Critical,-0.6099560789614108
+Israel-Arab Tensions,Latin America,Low,None,10.6,🟢 Low,-0.6097165494744685
+Israel-Arab Tensions,South Asia,High,High,90.3,🔴 Critical,-0.6096640260794605
+Israel-Arab Tensions,Latin America,Severe,High,82.4,🔴 Critical,-0.6095469089274828
+Venezuela-US Tensions 2026,Latin America,Severe,High,82.3,🔴 Critical,-0.6095469089274828
+Venezuela-US Tensions 2026,South Asia,Severe,High,88.2,🔴 Critical,-0.6094796737814756
+Russia-Ukraine Conflict,Middle East,High,High,92.4,🔴 Critical,-0.6092817209307149
+Russia-Ukraine Conflict,East Asia,Severe,High,82.3,🔴 Critical,-0.6091346373149008
+Israel-Arab Tensions,South Asia,Severe,High,94.4,🔴 Critical,-0.6091155416601008
+Korean Peninsula Risk,South Asia,Severe,High,86.9,🔴 Critical,-0.6090327234426097
+Taiwan Strait Stability,Latin America,Severe,High,86.7,🔴 Critical,-0.6082091543716163
+Taiwan Strait Stability,South Asia,Severe,None,24.2,🟢 Low,-0.6079349659449608
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,95.5,🔴 Critical,-0.6079112171980501
+Korean Peninsula Risk,East Asia,High,None,32.1,🟡 Moderate,-0.6077748050075141
+Russia-Ukraine Conflict,South Asia,Severe,High,93.7,🔴 Critical,-0.6077695545157187
+Russia-Ukraine Conflict,South Asia,Low,None,6.9,🟢 Low,-0.60752051483819
+Russia-Ukraine Conflict,South Asia,Low,None,3.8,🟢 Low,-0.6074793686388504
+Taiwan Strait Stability,Latin America,Severe,High,88.0,🔴 Critical,-0.6071350271068856
+Venezuela-US Tensions 2026,Middle East,Low,Low,11.7,🟢 Low,-0.6070120127403978
+Taiwan Strait Stability,Middle East,Low,Low,11.9,🟢 Low,-0.6070120127403978
+Israel-Arab Tensions,Middle East,Low,High,67.3,🟠 High,-0.6070065062860288
+Korean Peninsula Risk,South Asia,Low,None,15.1,🟢 Low,-0.6070059299699658
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,72.6,🟠 High,-0.6069617778322879
+India-Pakistan Escalation 2025,South Asia,Low,None,10.9,🟢 Low,-0.6068114523979962
+Korean Peninsula Risk,Eastern Europe,Low,None,3.9,🟢 Low,-0.6066579001035483
+Russia-Ukraine Conflict,South Asia,Low,None,15.3,🟢 Low,-0.6065953769675138
+Israel-Arab Tensions,Eastern Europe,Severe,High,95.0,🔴 Critical,-0.6065627203094253
+Israel-Arab Tensions,East Asia,Low,None,4.5,🟢 Low,-0.6063935156117709
+Taiwan Strait Stability,East Asia,Low,None,4.1,🟢 Low,-0.6063935156117709
+India-Pakistan Escalation 2025,South Asia,Low,None,4.3,🟢 Low,-0.6063935156117709
+Taiwan Strait Stability,Middle East,Low,None,4.3,🟢 Low,-0.6063935156117709
+Korean Peninsula Risk,East Asia,Severe,High,86.3,🔴 Critical,-0.6063891174762271
+Israel-Arab Tensions,East Asia,Severe,High,86.5,🔴 Critical,-0.6063891174762271
+Russia-Ukraine Conflict,East Asia,Severe,High,76.7,🔴 Critical,-0.6063093503483559
+Israel-Arab Tensions,Middle East,Severe,High,86.2,🔴 Critical,-0.6061248501212387
+Israel-Arab Tensions,East Asia,High,High,88.1,🔴 Critical,-0.6061171970222703
+Russia-Ukraine Conflict,Middle East,Severe,High,87.9,🔴 Critical,-0.6059039391831899
+Taiwan Strait Stability,Eastern Europe,Severe,High,87.5,🔴 Critical,-0.6058873763244198
+Taiwan Strait Stability,East Asia,Low,None,15.8,🟢 Low,-0.6058780361906375
+Venezuela-US Tensions 2026,Eastern Europe,High,High,88.1,🔴 Critical,-0.605707245120997
+Russia-Ukraine Conflict,Latin America,Low,None,5.3,🟢 Low,-0.6055735154293738
+Taiwan Strait Stability,South Asia,Low,None,5.1,🟢 Low,-0.6055735154293738
+Israel-Arab Tensions,Eastern Europe,High,High,88.4,🔴 Critical,-0.605478870217209
+India-Pakistan Escalation 2025,Middle East,Severe,None,33.7,🟡 Moderate,-0.6053169977147699
+Korean Peninsula Risk,Middle East,Severe,High,93.3,🔴 Critical,-0.6052583136327623
+Russia-Ukraine Conflict,Latin America,Low,High,67.2,🟠 High,-0.6049565142558965
+Taiwan Strait Stability,Middle East,Severe,High,87.5,🔴 Critical,-0.6045513203139492
+Russia-Ukraine Conflict,South Asia,Low,None,14.2,🟢 Low,-0.6045450623681825
+Russia-Ukraine Conflict,South Asia,Low,None,14.2,🟢 Low,-0.6045450623681825
+Taiwan Strait Stability,South Asia,Severe,High,93.4,🔴 Critical,-0.6045171731158205
+Israel-Arab Tensions,East Asia,Severe,High,93.4,🔴 Critical,-0.6045171731158205
+India-Pakistan Escalation 2025,Eastern Europe,Severe,High,93.3,🔴 Critical,-0.6045171731158205
+Taiwan Strait Stability,South Asia,Moderate,None,11.7,🟢 Low,-0.6044417040059769
+Venezuela-US Tensions 2026,East Asia,High,High,90.1,🔴 Critical,-0.6041520414702937
+Taiwan Strait Stability,South Asia,Severe,High,89.5,🔴 Critical,-0.6041122348609247
+Taiwan Strait Stability,South Asia,Severe,High,93.0,🔴 Critical,-0.6040752793646882
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,93.1,🔴 Critical,-0.6040752793646882
+India-Pakistan Escalation 2025,East Asia,Severe,Moderate,88.1,🔴 Critical,-0.6040422485793295
+India-Pakistan Escalation 2025,East Asia,Severe,None,55.6,🟠 High,-0.6039642333004075
+Korean Peninsula Risk,Middle East,Low,High,76.5,🔴 Critical,-0.6038704419240826
+India-Pakistan Escalation 2025,Latin America,Low,High,76.5,🔴 Critical,-0.6038704419240826
+Taiwan Strait Stability,Eastern Europe,Severe,High,77.0,🔴 Critical,-0.6038530158337352
+Russia-Ukraine Conflict,Eastern Europe,Moderate,None,8.4,🟢 Low,-0.603813136611597
+Israel-Arab Tensions,East Asia,Moderate,None,8.7,🟢 Low,-0.6037538961214044
+India-Pakistan Escalation 2025,East Asia,High,High,91.9,🔴 Critical,-0.6037177495965212
+India-Pakistan Escalation 2025,East Asia,Moderate,None,15.7,🟢 Low,-0.603568919454064
+Israel-Arab Tensions,Latin America,Severe,High,90.4,🔴 Critical,-0.6035294835808882
+India-Pakistan Escalation 2025,Latin America,High,High,91.7,🔴 Critical,-0.6034291791466516
+Israel-Arab Tensions,Eastern Europe,Low,None,7.3,🟢 Low,-0.6034074787368302
+India-Pakistan Escalation 2025,South Asia,Severe,None,37.5,🟡 Moderate,-0.6033765070121965
+Israel-Arab Tensions,Eastern Europe,Severe,High,89.3,🔴 Critical,-0.6032953195575437
+Korean Peninsula Risk,Eastern Europe,Low,None,6.8,🟢 Low,-0.6032423641819582
+Venezuela-US Tensions 2026,South Asia,Severe,None,33.7,🟡 Moderate,-0.6031880669369648
+Korean Peninsula Risk,Latin America,Severe,High,90.6,🔴 Critical,-0.6031212818989627
+India-Pakistan Escalation 2025,Latin America,High,None,27.2,🟡 Moderate,-0.6031034342304619
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,87.5,🔴 Critical,-0.6030807088734448
+Taiwan Strait Stability,Eastern Europe,Severe,High,89.8,🔴 Critical,-0.6028872762542073
+Korean Peninsula Risk,East Asia,Severe,High,92.4,🔴 Critical,-0.602881175296932
+India-Pakistan Escalation 2025,East Asia,Severe,High,87.2,🔴 Critical,-0.6027924429220399
+Russia-Ukraine Conflict,South Asia,Severe,None,47.4,🟡 Moderate,-0.6027144185764712
+Russia-Ukraine Conflict,East Asia,Severe,High,92.8,🔴 Critical,-0.6023897703090958
+Venezuela-US Tensions 2026,Latin America,Severe,High,84.6,🔴 Critical,-0.6023757578166917
+Venezuela-US Tensions 2026,South Asia,Severe,None,40.8,🟡 Moderate,-0.6022529138422066
+Korean Peninsula Risk,East Asia,Severe,High,91.1,🔴 Critical,-0.602133818047402
+Korean Peninsula Risk,Eastern Europe,Severe,High,91.1,🔴 Critical,-0.602133818047402
+Venezuela-US Tensions 2026,East Asia,Severe,High,92.8,🔴 Critical,-0.6020659247030853
+Israel-Arab Tensions,Middle East,Severe,High,92.7,🔴 Critical,-0.6020659247030853
+India-Pakistan Escalation 2025,South Asia,Severe,High,87.5,🔴 Critical,-0.6019773123172132
+Israel-Arab Tensions,East Asia,Low,None,14.0,🟢 Low,-0.6019150676794764
+Taiwan Strait Stability,Latin America,Severe,High,90.7,🔴 Critical,-0.6018983326479405
+Russia-Ukraine Conflict,South Asia,Severe,High,90.8,🔴 Critical,-0.6018983326479405
+Venezuela-US Tensions 2026,East Asia,Low,None,17.9,🟢 Low,-0.6018566548032357
+Israel-Arab Tensions,Eastern Europe,Moderate,None,9.1,🟢 Low,-0.6018176937341619
+Taiwan Strait Stability,Middle East,Severe,None,37.7,🟡 Moderate,-0.6017457695269419
+Taiwan Strait Stability,East Asia,Low,None,4.5,🟢 Low,-0.6016620636197078
+Israel-Arab Tensions,Eastern Europe,Low,High,35.2,🟡 Moderate,-0.6016583816909891
+Russia-Ukraine Conflict,Middle East,Severe,None,50.3,🟠 High,-0.6015794874659153
+Korean Peninsula Risk,South Asia,High,None,17.7,🟢 Low,-0.6013603002589606
+Korean Peninsula Risk,East Asia,Severe,High,77.4,🔴 Critical,-0.6013222498853097
+Taiwan Strait Stability,South Asia,Severe,Moderate,87.7,🔴 Critical,-0.6012725693482958
+Israel-Arab Tensions,Eastern Europe,Moderate,High,73.1,🟠 High,-0.6012233937073805
+Taiwan Strait Stability,Eastern Europe,Severe,None,25.2,🟡 Moderate,-0.6011856143919584
+Venezuela-US Tensions 2026,East Asia,High,None,27.3,🟡 Moderate,-0.6011687560337278
+Israel-Arab Tensions,South Asia,Severe,None,34.6,🟡 Moderate,-0.6011510598504614
+Korean Peninsula Risk,Eastern Europe,Severe,High,87.1,🔴 Critical,-0.6011005835664486
+Korean Peninsula Risk,East Asia,Severe,None,50.5,🟠 High,-0.6010532939585624
+India-Pakistan Escalation 2025,Eastern Europe,Low,None,24.0,🟢 Low,-0.6009664456747476
+Taiwan Strait Stability,East Asia,Severe,High,91.0,🔴 Critical,-0.6009128710772044
+Russia-Ukraine Conflict,South Asia,Severe,High,90.9,🔴 Critical,-0.6009128710772044
+Russia-Ukraine Conflict,East Asia,Severe,High,92.9,🔴 Critical,-0.6007608114309008
+Russia-Ukraine Conflict,Eastern Europe,Severe,High,92.8,🔴 Critical,-0.6007608114309008
+Venezuela-US Tensions 2026,South Asia,Severe,High,92.9,🔴 Critical,-0.6007608114309008
+Taiwan Strait Stability,Eastern Europe,Severe,None,34.2,🟡 Moderate,-0.6006744678645464
+Korean Peninsula Risk,East Asia,Severe,None,55.1,🟠 High,-0.6005836001948622
+Venezuela-US Tensions 2026,Latin America,High,None,17.8,🟢 Low,-0.6005471062797979
+Russia-Ukraine Conflict,Eastern Europe,Low,None,8.0,🟢 Low,-0.6005228271732608
+Korean Peninsula Risk,East Asia,Low,None,9.0,🟢 Low,-0.600387690153142
+India-Pakistan Escalation 2025,East Asia,Moderate,None,12.0,🟢 Low,-0.6003563252903237
+Taiwan Strait Stability,Eastern Europe,Moderate,None,12.1,🟢 Low,-0.6003563252903237
+India-Pakistan Escalation 2025,East Asia,Low,None,12.1,🟢 Low,-0.6002402728064254
+Israel-Arab Tensions,East Asia,Low,None,12.2,🟢 Low,-0.6002402728064254
+Venezuela-US Tensions 2026,Eastern Europe,Moderate,High,82.3,🔴 Critical,-0.6002359255589934
+Taiwan Strait Stability,Middle East,Severe,High,86.8,🔴 Critical,-0.6001193010794038
+Taiwan Strait Stability,Eastern Europe,Low,None,8.2,🟢 Low,-0.6001007114350911
+India-Pakistan Escalation 2025,South Asia,Low,None,7.3,🟢 Low,-0.6000879693976011
+Israel-Arab Tensions,Eastern Europe,Moderate,None,12.1,🟢 Low,-0.6000697904703179
+Israel-Arab Tensions,Eastern Europe,Severe,High,78.0,🔴 Critical,-0.6000375341979874
+Russia-Ukraine Conflict,South Asia,Severe,High,77.5,🔴 Critical,-0.6000187486955152
+Russia-Ukraine Conflict,East Asia,Severe,High,95.3,🔴 Critical,-0.599992589804122
+Korean Peninsula Risk,Middle East,Severe,High,77.9,🔴 Critical,-0.5999533435395408
+Korean Peninsula Risk,East Asia,Moderate,None,15.9,🟢 Low,-0.5999047884899588
+Venezuela-US Tensions 2026,East Asia,Severe,None,41.2,🟡 Moderate,-0.5998130131249382
+Taiwan Strait Stability,East Asia,Severe,None,41.2,🟡 Moderate,-0.5998130131249382
+India-Pakistan Escalation 2025,Latin America,Low,None,10.5,🟢 Low,-0.5996752856060353
+Russia-Ukraine Conflict,East Asia,Severe,High,77.7,🔴 Critical,-0.5996316943221545
+Taiwan Strait Stability,Eastern Europe,Low,None,8.1,🟢 Low,-0.5996106862550575
+Taiwan Strait Stability,Middle East,Low,None,18.2,🟢 Low,-0.5995944465310383
+Korean Peninsula Risk,Eastern Europe,Severe,High,94.9,🔴 Critical,-0.5995026529131383
+Taiwan Strait Stability,East Asia,Severe,None,50.7,🟠 High,-0.5994288353896541
+Taiwan Strait Stability,South Asia,High,High,76.3,🔴 Critical,-0.5993761754061521
+Israel-Arab Tensions,East Asia,Low,None,11.4,🟢 Low,-0.59935731795351
+Venezuela-US Tensions 2026,Eastern Europe,Low,None,11.7,🟢 Low,-0.5993156422256423
+India-Pakistan Escalation 2025,Latin America,Low,None,8.4,🟢 Low,-0.5992892207443686
+Taiwan Strait Stability,East Asia,Severe,High,91.7,🔴 Critical,-0.5992601265801594
+Russia-Ukraine Conflict,South Asia,Severe,Moderate,87.5,🔴 Critical,-0.5992419420612131
+India-Pakistan Escalation 2025,South Asia,Severe,Moderate,87.7,🔴 Critical,-0.5992419420612131
+Venezuela-US Tensions 2026,Eastern Europe,Low,High,66.9,🟠 High,-0.5992040643512949
+Russia-Ukraine Conflict,Eastern Europe,Moderate,None,20.3,🟢 Low,-0.5989393631167647
+Russia-Ukraine Conflict,Middle East,Severe,None,47.3,🟡 Moderate,-0.598935412569807
+Russia-Ukraine Conflict,Eastern Europe,Low,None,8.6,🟢 Low,-0.598883886995939
+Israel-Arab Tensions,Latin America,High,High,89.8,🔴 Critical,-0.5987414259181697
+Russia-Ukraine Conflict,Latin America,Severe,High,91.9,🔴 Critical,-0.598722326173013
+India-Pakistan Escalation 2025,Eastern Europe,Low,Low,12.5,🟢 Low,-0.5986651067795696
+Venezuela-US Tensions 2026,East Asia,Severe,High,88.4,🔴 Critical,-0.5986570337662475
+Israel-Arab Tensions,Middle East,High,High,70.1,🟠 High,-0.5986093754518093
+India-Pakistan Escalation 2025,Middle East,Low,None,10.1,🟢 Low,-0.5985097209908644
+Korean Peninsula Risk,South Asia,Severe,High,92.8,🔴 Critical,-0.5983195368354118
+Taiwan Strait Stability,South Asia,Severe,High,92.6,🔴 Critical,-0.5982355872274344
+Israel-Arab Tensions,Middle East,Low,None,27.2,🟡 Moderate,-0.598222597176519
+India-Pakistan Escalation 2025,East Asia,Severe,None,41.5,🟡 Moderate,-0.5981919066461827
+Taiwan Strait Stability,Eastern Europe,Moderate,None,20.2,🟢 Low,-0.5981294428680214
+Venezuela-US Tensions 2026,Middle East,Low,None,8.0,🟢 Low,-0.5980501484382119
+Israel-Arab Tensions,East Asia,Severe,High,84.9,🔴 Critical,-0.5980227915889564
+Venezuela-US Tensions 2026,South Asia,Severe,None,25.3,🟡 Moderate,-0.5978564769735636
+Taiwan Strait Stability,South Asia,Severe,High,90.3,🔴 Critical,-0.5978461654820482
+Israel-Arab Tensions,East Asia,Severe,High,92.6,🔴 Critical,-0.5978309661119173
+India-Pakistan Escalation 2025,South Asia,Severe,High,67.9,🟠 High,-0.5976080879592357
+India-Pakistan Escalation 2025,Middle East,Low,None,6.9,🟢 Low,-0.5975329370027859
+Venezuela-US Tensions 2026,East Asia,Severe,High,92.9,🔴 Critical,-0.5975104547514093
+Venezuela-US Tensions 2026,East Asia,Low,None,27.2,🟡 Moderate,-0.5974136461798977
+India-Pakistan Escalation 2025,East Asia,Moderate,None,9.7,🟢 Low,-0.5973789984733073
+Israel-Arab Tensions,Middle East,Severe,High,92.5,🔴 Critical,-0.5972944482914936
+Israel-Arab Tensions,Middle East,Severe,None,41.6,🟡 Moderate,-0.597250836428146
+Russia-Ukraine Conflict,Eastern Europe,Low,None,7.7,🟢 Low,-0.5972414306366911
+Israel-Arab Tensions,Eastern Europe,Low,None,7.0,🟢 Low,-0.5971287911300056
+Taiwan Strait Stability,Eastern Europe,High,High,87.3,🔴 Critical,-0.5970508672732773
+Russia-Ukraine Conflict,South Asia,Low,Low,26.3,🟡 Moderate,-0.5969359979977534
+Korean Peninsula Risk,Middle East,Moderate,None,9.9,🟢 Low,-0.5968456825301361
+Israel-Arab Tensions,Eastern Europe,Moderate,None,10.0,🟢 Low,-0.5968456825301361
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,78.5,🔴 Critical,-0.5968312163373438
+India-Pakistan Escalation 2025,Latin America,Low,None,23.7,🟢 Low,-0.5967820561769318
+Israel-Arab Tensions,South Asia,Severe,High,71.9,🟠 High,-0.596661960334472
+Venezuela-US Tensions 2026,South Asia,High,High,87.6,🔴 Critical,-0.5966470474519655
+India-Pakistan Escalation 2025,South Asia,High,High,87.2,🔴 Critical,-0.5966470474519655
+Taiwan Strait Stability,Middle East,High,High,87.2,🔴 Critical,-0.5966470474519655
+Israel-Arab Tensions,East Asia,High,High,67.1,🟠 High,-0.5965730947398026
+Venezuela-US Tensions 2026,Middle East,Low,None,4.8,🟢 Low,-0.5965715357080985
+Venezuela-US Tensions 2026,East Asia,Severe,None,64.4,🟠 High,-0.5965401064835476
+Israel-Arab Tensions,Middle East,Severe,None,64.4,🟠 High,-0.5965401064835476
+Venezuela-US Tensions 2026,Middle East,Severe,None,47.0,🟡 Moderate,-0.596425256442914
+Venezuela-US Tensions 2026,Middle East,Low,None,9.7,🟢 Low,-0.5964047317527571
+India-Pakistan Escalation 2025,East Asia,Moderate,None,19.9,🟢 Low,-0.5963809183258216
+Venezuela-US Tensions 2026,South Asia,High,High,84.0,🔴 Critical,-0.5962384505529831
+Venezuela-US Tensions 2026,Latin America,High,High,83.8,🔴 Critical,-0.5962384505529831
+Israel-Arab Tensions,Middle East,High,High,83.9,🔴 Critical,-0.5962384505529831
+Israel-Arab Tensions,Middle East,Low,Low,12.5,🟢 Low,-0.5961560835122827
+Venezuela-US Tensions 2026,East Asia,Low,None,12.5,🟢 Low,-0.5961091856888359
+Korean Peninsula Risk,Latin America,Low,None,23.6,🟢 Low,-0.5959750531626882
+Israel-Arab Tensions,East Asia,Low,None,23.6,🟢 Low,-0.5959750531626882
+Taiwan Strait Stability,Middle East,High,High,84.8,🔴 Critical,-0.5959709413586413
+Russia-Ukraine Conflict,South Asia,Low,None,27.3,🟡 Moderate,-0.5959002616915635
+Israel-Arab Tensions,Middle East,High,High,87.1,🔴 Critical,-0.5958402270042835
+Korean Peninsula Risk,Middle East,Low,High,75.7,🔴 Critical,-0.5957561067840712
+Israel-Arab Tensions,Eastern Europe,Low,None,11.3,🟢 Low,-0.5957016768072534
+Taiwan Strait Stability,Middle East,Moderate,None,29.7,🟡 Moderate,-0.595700019745202
+Israel-Arab Tensions,South Asia,Severe,High,85.6,🔴 Critical,-0.5956037999130598
+Taiwan Strait Stability,Eastern Europe,Severe,High,80.8,🔴 Critical,-0.5955437493694786
+India-Pakistan Escalation 2025,East Asia,Severe,High,88.2,🔴 Critical,-0.5955174554329858
+Russia-Ukraine Conflict,Latin America,High,None,31.2,🟡 Moderate,-0.5954950418522693
+Korean Peninsula Risk,Eastern Europe,High,High,91.2,🔴 Critical,-0.5954796580393642
+Korean Peninsula Risk,Middle East,Severe,High,71.7,🟠 High,-0.595452108652225
+India-Pakistan Escalation 2025,Eastern Europe,Severe,High,71.6,🟠 High,-0.595452108652225
+Korean Peninsula Risk,Latin America,High,Moderate,73.1,🟠 High,-0.5953503900282104
+Taiwan Strait Stability,South Asia,Severe,None,64.8,🟠 High,-0.5953305018844
+India-Pakistan Escalation 2025,Latin America,Severe,None,64.7,🟠 High,-0.5953305018844
+Korean Peninsula Risk,East Asia,Severe,None,35.0,🟡 Moderate,-0.5948242833905727
+Israel-Arab Tensions,East Asia,Moderate,None,10.2,🟢 Low,-0.5948204819812293
+Taiwan Strait Stability,South Asia,High,High,88.9,🔴 Critical,-0.5948150709960066
+Venezuela-US Tensions 2026,Middle East,Severe,High,84.1,🔴 Critical,-0.5947834657812422
+Venezuela-US Tensions 2026,South Asia,Severe,High,84.0,🔴 Critical,-0.5947834657812422
+India-Pakistan Escalation 2025,Middle East,High,None,28.0,🟡 Moderate,-0.5946782547536882
+Russia-Ukraine Conflict,Eastern Europe,Severe,None,37.2,🟡 Moderate,-0.5946474955183345
+Taiwan Strait Stability,Eastern Europe,High,High,89.6,🔴 Critical,-0.5944961765284023
+India-Pakistan Escalation 2025,East Asia,High,High,89.6,🔴 Critical,-0.5944961765284023
+India-Pakistan Escalation 2025,Latin America,Low,Low,26.0,🟡 Moderate,-0.5944342214767961
+Russia-Ukraine Conflict,South Asia,Severe,High,90.1,🔴 Critical,-0.5943598131862454
+Taiwan Strait Stability,East Asia,High,High,70.4,🟠 High,-0.5943451672192636
+India-Pakistan Escalation 2025,South Asia,High,None,27.9,🟡 Moderate,-0.5942760396666064
+Russia-Ukraine Conflict,East Asia,Low,High,59.0,🟠 High,-0.5940722998540274
+Russia-Ukraine Conflict,South Asia,Low,Low,25.9,🟡 Moderate,-0.594032171443447
+India-Pakistan Escalation 2025,Latin America,Severe,Moderate,79.0,🔴 Critical,-0.5939886582066309
+Russia-Ukraine Conflict,Eastern Europe,High,High,88.7,🔴 Critical,-0.5939273828088811
+Russia-Ukraine Conflict,East Asia,Moderate,None,29.3,🟡 Moderate,-0.5939233287532271
+Venezuela-US Tensions 2026,Middle East,Moderate,None,29.3,🟡 Moderate,-0.5939233287532271
+Israel-Arab Tensions,Middle East,Moderate,None,28.7,🟡 Moderate,-0.593875699280366
+India-Pakistan Escalation 2025,Latin America,Moderate,None,28.7,🟡 Moderate,-0.593875699280366
+Russia-Ukraine Conflict,South Asia,Moderate,None,28.6,🟡 Moderate,-0.593875699280366
+India-Pakistan Escalation 2025,South Asia,Moderate,None,28.8,🟡 Moderate,-0.593875699280366
+Taiwan Strait Stability,East Asia,Low,Low,21.5,🟢 Low,-0.5938531852283291
+India-Pakistan Escalation 2025,South Asia,Severe,None,51.2,🟠 High,-0.5938333980176166
+Venezuela-US Tensions 2026,East Asia,Severe,High,58.7,🟠 High,-0.5937654026177205
+Venezuela-US Tensions 2026,Latin America,High,High,75.9,🔴 Critical,-0.5936661510330327
+Israel-Arab Tensions,South Asia,High,High,75.8,🔴 Critical,-0.5936661510330327
+Venezuela-US Tensions 2026,Eastern Europe,High,High,75.8,🔴 Critical,-0.5936661510330327
+Venezuela-US Tensions 2026,Eastern Europe,Severe,None,30.2,🟡 Moderate,-0.5936090690033122
+India-Pakistan Escalation 2025,Eastern Europe,Low,None,11.7,🟢 Low,-0.5936065636038692
+Venezuela-US Tensions 2026,Eastern Europe,Low,None,23.3,🟢 Low,-0.5934303705818764
+Russia-Ukraine Conflict,Eastern Europe,Moderate,None,19.7,🟢 Low,-0.5933480434580152
+Venezuela-US Tensions 2026,Middle East,Moderate,None,19.8,🟢 Low,-0.5933480434580152
+Venezuela-US Tensions 2026,South Asia,Low,Low,12.7,🟢 Low,-0.5932560508930054
+Russia-Ukraine Conflict,East Asia,High,High,83.5,🔴 Critical,-0.5930794376334784
+Israel-Arab Tensions,South Asia,Low,None,22.7,🟢 Low,-0.5930289995105911
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,83.3,🔴 Critical,-0.593023443668864
+India-Pakistan Escalation 2025,Eastern Europe,Severe,None,35.1,🟡 Moderate,-0.5930135555224961
+India-Pakistan Escalation 2025,East Asia,Low,High,75.5,🔴 Critical,-0.5930007299170195
+India-Pakistan Escalation 2025,South Asia,Low,High,75.5,🔴 Critical,-0.5930007299170195
+Russia-Ukraine Conflict,Latin America,Severe,High,85.3,🔴 Critical,-0.5927427485930401
+Israel-Arab Tensions,South Asia,Severe,None,27.5,🟡 Moderate,-0.5927119991653567
+Taiwan Strait Stability,East Asia,Severe,None,46.6,🟡 Moderate,-0.5926856833430246
+Korean Peninsula Risk,Eastern Europe,Severe,High,68.1,🟠 High,-0.5926806701626953
+India-Pakistan Escalation 2025,Middle East,Severe,High,68.1,🟠 High,-0.5926806701626953
+Korean Peninsula Risk,Eastern Europe,Moderate,None,29.2,🟡 Moderate,-0.5926358663887059
+India-Pakistan Escalation 2025,Middle East,Low,None,23.1,🟢 Low,-0.5926278999096328
+Venezuela-US Tensions 2026,Eastern Europe,Severe,High,83.0,🔴 Critical,-0.5925597469630343
+Israel-Arab Tensions,East Asia,Moderate,None,19.5,🟢 Low,-0.5925456841132427
+Venezuela-US Tensions 2026,Latin America,Low,None,31.5,🟡 Moderate,-0.5923648416592149
+Venezuela-US Tensions 2026,East Asia,Severe,None,46.4,🟡 Moderate,-0.5922848159465252
+India-Pakistan Escalation 2025,Latin America,Severe,High,68.1,🟠 High,-0.5922798061568978
+Venezuela-US Tensions 2026,Latin America,Severe,Low,76.0,🔴 Critical,-0.5922725495669579
+Russia-Ukraine Conflict,East Asia,Low,None,16.3,🟢 Low,-0.5922170781415366
+India-Pakistan Escalation 2025,South Asia,Low,None,16.3,🟢 Low,-0.5922170781415366
+Korean Peninsula Risk,Eastern Europe,Low,None,16.3,🟢 Low,-0.5922170781415366
+Venezuela-US Tensions 2026,Latin America,Low,High,66.6,🟠 High,-0.5921853103396741
+Venezuela-US Tensions 2026,Latin America,Low,High,66.6,🟠 High,-0.5921853103396741
+Israel-Arab Tensions,Latin America,High,High,90.7,🔴 Critical,-0.5921584600964017
+Venezuela-US Tensions 2026,Middle East,High,High,90.2,🔴 Critical,-0.5920397798692295
+Venezuela-US Tensions 2026,Eastern Europe,High,High,90.1,🔴 Critical,-0.5920397798692295
+Taiwan Strait Stability,Latin America,Low,None,19.0,🟢 Low,-0.5920344495790422
+Venezuela-US Tensions 2026,East Asia,Low,None,19.0,🟢 Low,-0.5920344495790422
+Russia-Ukraine Conflict,Middle East,Low,None,12.5,🟢 Low,-0.5920334575764129
+Russia-Ukraine Conflict,Eastern Europe,Severe,High,83.8,🔴 Critical,-0.5919966325917728
+Venezuela-US Tensions 2026,South Asia,Moderate,None,10.4,🟢 Low,-0.5919725292414476
+Russia-Ukraine Conflict,Eastern Europe,Moderate,None,10.5,🟢 Low,-0.5919725292414476
+Israel-Arab Tensions,Eastern Europe,Low,None,31.5,🟡 Moderate,-0.5919641912663888
+Israel-Arab Tensions,Eastern Europe,Severe,None,27.1,🟡 Moderate,-0.5919341479517172
+Korean Peninsula Risk,Middle East,Severe,None,27.1,🟡 Moderate,-0.5919341479517172
+Korean Peninsula Risk,Eastern Europe,Severe,None,27.0,🟡 Moderate,-0.5919341479517172
+Taiwan Strait Stability,Middle East,High,High,89.2,🔴 Critical,-0.5919215618026368
+Taiwan Strait Stability,Middle East,Moderate,None,16.5,🟢 Low,-0.5919173011469895
+Israel-Arab Tensions,Latin America,Severe,High,76.6,🔴 Critical,-0.591744219068383
+Russia-Ukraine Conflict,Middle East,Low,High,48.8,🟡 Moderate,-0.5916374659478996
+Venezuela-US Tensions 2026,Middle East,Severe,High,79.6,🔴 Critical,-0.5915572360337148
+Israel-Arab Tensions,Eastern Europe,Low,High,44.4,🟡 Moderate,-0.5915360194762987
+Russia-Ukraine Conflict,Middle East,High,High,86.8,🔴 Critical,-0.591530113748775
+Russia-Ukraine Conflict,East Asia,Severe,High,84.8,🔴 Critical,-0.5915219017461772
+Israel-Arab Tensions,Eastern Europe,Severe,High,84.8,🔴 Critical,-0.5915219017461772
+India-Pakistan Escalation 2025,Latin America,Severe,High,84.9,🔴 Critical,-0.5915219017461772
+Russia-Ukraine Conflict,East Asia,Low,None,12.4,🟢 Low,-0.591496666843344
+Korean Peninsula Risk,East Asia,Low,None,22.5,🟢 Low,-0.5914855910933688
+India-Pakistan Escalation 2025,Middle East,Low,None,27.7,🟡 Moderate,-0.5914325740156224
+Israel-Arab Tensions,Middle East,Low,None,11.9,🟢 Low,-0.5913875058156337
+Russia-Ukraine Conflict,Latin America,Severe,High,58.7,🟠 High,-0.5913598872628946
+Korean Peninsula Risk,South Asia,Severe,High,87.8,🔴 Critical,-0.5913376697756022
+Venezuela-US Tensions 2026,Middle East,Moderate,None,12.7,🟢 Low,-0.5912494999156106
+India-Pakistan Escalation 2025,Eastern Europe,Severe,High,94.2,🔴 Critical,-0.5912257126333347
+Taiwan Strait Stability,Latin America,Moderate,None,10.4,🟢 Low,-0.5911858417266644
+Taiwan Strait Stability,Middle East,Moderate,None,10.4,🟢 Low,-0.5911858417266644
+Venezuela-US Tensions 2026,Eastern Europe,Low,None,40.8,🟡 Moderate,-0.5911554941700444
+Venezuela-US Tensions 2026,Eastern Europe,Moderate,High,55.6,🟠 High,-0.5910610994122426
+Russia-Ukraine Conflict,Eastern Europe,High,None,28.3,🟡 Moderate,-0.5909258520705872
+Israel-Arab Tensions,East Asia,High,None,28.3,🟡 Moderate,-0.5909258520705872
+Taiwan Strait Stability,Latin America,High,None,28.3,🟡 Moderate,-0.5909258520705872
+Korean Peninsula Risk,Middle East,Severe,High,87.9,🔴 Critical,-0.5908548002462535
+Israel-Arab Tensions,Middle East,High,High,89.1,🔴 Critical,-0.5907957045729876
+India-Pakistan Escalation 2025,Middle East,High,High,70.6,🟠 High,-0.5907604456856731
+Russia-Ukraine Conflict,Middle East,Moderate,High,40.9,🟡 Moderate,-0.5907397600349977
+India-Pakistan Escalation 2025,Latin America,Severe,High,84.4,🔴 Critical,-0.5907314700080593
+Russia-Ukraine Conflict,South Asia,Low,High,65.8,🟠 High,-0.5906440976952877
+Israel-Arab Tensions,South Asia,Low,High,65.8,🟠 High,-0.5906440976952877
+Israel-Arab Tensions,Latin America,Low,High,65.9,🟠 High,-0.5906440976952877
+Korean Peninsula Risk,Middle East,High,High,88.1,🔴 Critical,-0.5905264732914957
+Israel-Arab Tensions,Middle East,Severe,None,27.1,🟡 Moderate,-0.5904617563297534
+Israel-Arab Tensions,Latin America,Severe,None,64.2,🟠 High,-0.5904574696185345
+Israel-Arab Tensions,South Asia,Moderate,None,38.0,🟡 Moderate,-0.590456241090981
+Korean Peninsula Risk,Middle East,Severe,None,54.5,🟠 High,-0.5904039251290213
+Russia-Ukraine Conflict,Middle East,Moderate,None,17.0,🟢 Low,-0.5902347074465796
+Venezuela-US Tensions 2026,Eastern Europe,Severe,Low,66.9,🟠 High,-0.5901875050450897
+Korean Peninsula Risk,Middle East,Severe,High,77.9,🔴 Critical,-0.5901229289749657
+Korean Peninsula Risk,South Asia,Moderate,None,11.1,🟢 Low,-0.5901153258481788
+Russia-Ukraine Conflict,Eastern Europe,Low,None,8.8,🟢 Low,-0.5900517017615864
+Korean Peninsula Risk,Latin America,Severe,None,54.1,🟠 High,-0.5899695673654033
+Korean Peninsula Risk,Eastern Europe,Low,None,31.4,🟡 Moderate,-0.5899650003818548
+Russia-Ukraine Conflict,Latin America,Severe,Low,52.8,🟠 High,-0.5899636338903467
+India-Pakistan Escalation 2025,Middle East,Moderate,High,41.1,🟡 Moderate,-0.5899409277610588
+Venezuela-US Tensions 2026,Middle East,Low,High,58.8,🟠 High,-0.5899359126890811
+Venezuela-US Tensions 2026,Middle East,Severe,High,84.2,🔴 Critical,-0.5899326489443715
+Russia-Ukraine Conflict,Middle East,Severe,High,85.0,🔴 Critical,-0.589923203541464
+Korean Peninsula Risk,Latin America,Severe,High,83.9,🔴 Critical,-0.5898498760921361
+Korean Peninsula Risk,Middle East,High,High,75.1,🔴 Critical,-0.5897915533490006
+Israel-Arab Tensions,East Asia,Low,Moderate,55.6,🟠 High,-0.5897430156536747
+Venezuela-US Tensions 2026,Middle East,Severe,High,83.7,🔴 Critical,-0.58973281251872
+India-Pakistan Escalation 2025,Eastern Europe,Moderate,None,11.0,🟢 Low,-0.5897161969322028
+Israel-Arab Tensions,East Asia,Moderate,None,10.9,🟢 Low,-0.5897161969322028
+Korean Peninsula Risk,Middle East,High,High,82.1,🔴 Critical,-0.5897000466972006
+Russia-Ukraine Conflict,Middle East,Severe,None,36.0,🟡 Moderate,-0.5896776110505764
+Venezuela-US Tensions 2026,Eastern Europe,Moderate,High,64.8,🟠 High,-0.5896476551072309
+Korean Peninsula Risk,Middle East,Moderate,High,64.8,🟠 High,-0.5896476551072309
+Taiwan Strait Stability,South Asia,Low,None,12.8,🟢 Low,-0.5895992216625802
+Taiwan Strait Stability,South Asia,Low,None,12.7,🟢 Low,-0.5895992216625802
+Korean Peninsula Risk,South Asia,Moderate,High,41.2,🟡 Moderate,-0.5895419168005338
+Taiwan Strait Stability,South Asia,Low,High,58.5,🟠 High,-0.5895369051205376
+Venezuela-US Tensions 2026,Eastern Europe,High,High,86.6,🔴 Critical,-0.5895323888377394
+Venezuela-US Tensions 2026,South Asia,Low,Moderate,23.6,🟢 Low,-0.5895156536486229
+Taiwan Strait Stability,Latin America,Low,Moderate,23.5,🟢 Low,-0.5895156536486229
+Taiwan Strait Stability,Middle East,Low,None,22.3,🟢 Low,-0.5895054569218364
+Taiwan Strait Stability,South Asia,Low,None,22.3,🟢 Low,-0.5895054569218364
+Venezuela-US Tensions 2026,Middle East,Moderate,None,10.6,🟢 Low,-0.5895053272846413
+Korean Peninsula Risk,South Asia,Severe,Low,75.9,🔴 Critical,-0.58943867843069
+Korean Peninsula Risk,South Asia,Moderate,None,17.1,🟢 Low,-0.5894365581337937
+Russia-Ukraine Conflict,East Asia,High,High,82.2,🔴 Critical,-0.5893838945154428
+Russia-Ukraine Conflict,East Asia,High,High,52.7,🟠 High,-0.5893525961319894
+Venezuela-US Tensions 2026,South Asia,Severe,None,49.7,🟡 Moderate,-0.5893270088818886
+India-Pakistan Escalation 2025,Latin America,Severe,None,64.0,🟠 High,-0.5892601987844546
+Venezuela-US Tensions 2026,Eastern Europe,Severe,None,64.0,🟠 High,-0.5892601987844546
+Israel-Arab Tensions,Middle East,Severe,High,88.0,🔴 Critical,-0.5892579050076978
+Israel-Arab Tensions,East Asia,Severe,None,35.4,🟡 Moderate,-0.589216584385322
+India-Pakistan Escalation 2025,Eastern Europe,Severe,Moderate,64.3,🟠 High,-0.5892045131345589
+Russia-Ukraine Conflict,Middle East,Severe,None,63.9,🟠 High,-0.58917752028302
+Taiwan Strait Stability,South Asia,High,None,18.6,🟢 Low,-0.5891677068351969
+Korean Peninsula Risk,Middle East,Low,None,41.2,🟡 Moderate,-0.5891590344302101
+India-Pakistan Escalation 2025,South Asia,High,High,84.7,🔴 Critical,-0.5891459414410072
+Israel-Arab Tensions,Eastern Europe,High,High,84.7,🔴 Critical,-0.5891459414410072
+Korean Peninsula Risk,Latin America,Low,High,38.6,🟡 Moderate,-0.5889898926612527
+Israel-Arab Tensions,East Asia,Low,None,12.7,🟢 Low,-0.5889033947235933
+Venezuela-US Tensions 2026,East Asia,Severe,Moderate,86.2,🔴 Critical,-0.5888496500350849
+Korean Peninsula Risk,South Asia,High,High,87.8,🔴 Critical,-0.5888443718191904
+Taiwan Strait Stability,East Asia,High,High,87.8,🔴 Critical,-0.5888443718191904
+Korean Peninsula Risk,Eastern Europe,Severe,High,86.1,🔴 Critical,-0.5887847077086267
+India-Pakistan Escalation 2025,East Asia,High,High,82.3,🔴 Critical,-0.588633497613996
+India-Pakistan Escalation 2025,Eastern Europe,Low,None,16.5,🟢 Low,-0.5885963331351549
+Venezuela-US Tensions 2026,Latin America,Low,High,38.7,🟡 Moderate,-0.5885915249404332
+Venezuela-US Tensions 2026,Latin America,Low,High,38.7,🟡 Moderate,-0.5885915249404332
+Korean Peninsula Risk,East Asia,Severe,High,89.9,🔴 Critical,-0.5885559032917871
+Venezuela-US Tensions 2026,East Asia,High,High,78.9,🔴 Critical,-0.5884517708205463
+India-Pakistan Escalation 2025,East Asia,High,None,23.6,🟢 Low,-0.5884480480516835
+Israel-Arab Tensions,Eastern Europe,Severe,None,30.7,🟡 Moderate,-0.5884440853842384
+Russia-Ukraine Conflict,Eastern Europe,Severe,None,54.1,🟠 High,-0.5883983851244056
+Venezuela-US Tensions 2026,Middle East,Moderate,None,19.1,🟢 Low,-0.588380049543235
+Taiwan Strait Stability,Latin America,Severe,None,29.5,🟡 Moderate,-0.588376767721459
+Russia-Ukraine Conflict,Latin America,Severe,High,83.2,🔴 Critical,-0.5883698268885826
+Israel-Arab Tensions,Eastern Europe,Severe,None,51.6,🟠 High,-0.5883349925661628
+Venezuela-US Tensions 2026,East Asia,Severe,None,26.7,🟡 Moderate,-0.5883250529069725
+Russia-Ukraine Conflict,East Asia,Severe,None,29.3,🟡 Moderate,-0.5882942131733417
+Korean Peninsula Risk,East Asia,High,High,82.4,🔴 Critical,-0.5882353709436333
+Israel-Arab Tensions,East Asia,Low,High,48.5,🟡 Moderate,-0.5882185143863654
+Korean Peninsula Risk,Latin America,Low,High,48.6,🟡 Moderate,-0.5882185143863654
+Korean Peninsula Risk,Middle East,Low,High,48.5,🟡 Moderate,-0.5882185143863654
+Russia-Ukraine Conflict,East Asia,Moderate,High,72.7,🟠 High,-0.5881162367857028
+Israel-Arab Tensions,East Asia,Severe,High,82.5,🔴 Critical,-0.5881061140965006
+Korean Peninsula Risk,Latin America,Severe,None,51.9,🟠 High,-0.5879960805758978
+Taiwan Strait Stability,Latin America,Severe,High,83.1,🔴 Critical,-0.587971878553888
+Venezuela-US Tensions 2026,Middle East,Severe,None,26.5,🟡 Moderate,-0.5879271348554952
+Israel-Arab Tensions,South Asia,Severe,None,26.5,🟡 Moderate,-0.5879271348554952
+Israel-Arab Tensions,Latin America,Severe,None,45.5,🟡 Moderate,-0.5879167900460521
+Russia-Ukraine Conflict,Latin America,High,High,82.0,🔴 Critical,-0.5879076527871175
+Korean Peninsula Risk,Middle East,Severe,None,63.9,🟠 High,-0.5879003455254993
+India-Pakistan Escalation 2025,Eastern Europe,Severe,High,68.4,🟠 High,-0.5878881562174649
+Korean Peninsula Risk,Middle East,Severe,High,68.4,🟠 High,-0.5878881562174649
+Korean Peninsula Risk,Eastern Europe,Severe,Moderate,78.9,🔴 Critical,-0.5878730308945681
+Taiwan Strait Stability,Eastern Europe,Severe,Moderate,78.8,🔴 Critical,-0.5878730308945681
+Russia-Ukraine Conflict,Latin America,Severe,None,35.7,🟡 Moderate,-0.5878355092703018
+Taiwan Strait Stability,South Asia,Low,None,16.6,🟢 Low,-0.5877179256478757
+India-Pakistan Escalation 2025,South Asia,Severe,High,79.1,🔴 Critical,-0.5876572343060333
+Venezuela-US Tensions 2026,South Asia,Severe,None,36.9,🟡 Moderate,-0.5876392512909144
+India-Pakistan Escalation 2025,Middle East,High,High,66.4,🟠 High,-0.5876304043803932
+Korean Peninsula Risk,South Asia,Moderate,High,64.6,🟠 High,-0.5875262788098867
+Israel-Arab Tensions,Eastern Europe,Moderate,High,64.7,🟠 High,-0.5875262788098867
+Israel-Arab Tensions,South Asia,Low,None,18.1,🟢 Low,-0.5874961959430259
+Korean Peninsula Risk,Latin America,High,High,79.6,🔴 Critical,-0.5874628363706664
+India-Pakistan Escalation 2025,Middle East,High,High,79.6,🔴 Critical,-0.5874628363706664
+Russia-Ukraine Conflict,Latin America,Severe,None,45.6,🟡 Moderate,-0.5874367139098348
+Taiwan Strait Stability,Eastern Europe,Severe,High,59.3,🟠 High,-0.5874312881308023
+Venezuela-US Tensions 2026,East Asia,Severe,None,43.8,🟡 Moderate,-0.5873886275804099
+Korean Peninsula Risk,Middle East,Low,High,58.4,🟠 High,-0.587347481346306
+Korean Peninsula Risk,Latin America,Severe,High,70.5,🟠 High,-0.5873307200655177
+Russia-Ukraine Conflict,Middle East,Low,None,5.7,🟢 Low,-0.5872214882935903
+Israel-Arab Tensions,Eastern Europe,Low,None,5.7,🟢 Low,-0.5872214882935903
+Venezuela-US Tensions 2026,South Asia,Low,None,40.7,🟡 Moderate,-0.5871599160067285
+Korean Peninsula Risk,Eastern Europe,Severe,Moderate,61.3,🟠 High,-0.5871285288069159
+Korean Peninsula Risk,South Asia,Low,High,36.0,🟡 Moderate,-0.5871108644522856
+Korean Peninsula Risk,Eastern Europe,Moderate,None,17.2,🟢 Low,-0.5870718480947328
+Israel-Arab Tensions,Eastern Europe,Moderate,None,17.2,🟢 Low,-0.5870718480947328
+Venezuela-US Tensions 2026,South Asia,High,High,74.9,🟠 High,-0.5870318631009289
+Taiwan Strait Stability,East Asia,Severe,None,61.4,🟠 High,-0.5869886166399109
+India-Pakistan Escalation 2025,Eastern Europe,Moderate,High,81.7,🔴 Critical,-0.5869642841295062
+Taiwan Strait Stability,Middle East,Low,None,13.5,🟢 Low,-0.5869573917037031
+India-Pakistan Escalation 2025,Latin America,Low,None,12.9,🟢 Low,-0.5868984831651883
+Russia-Ukraine Conflict,Middle East,Low,None,13.0,🟢 Low,-0.5868629240355444
+Taiwan Strait Stability,South Asia,Severe,Moderate,64.6,🟠 High,-0.586817475261976
+Taiwan Strait Stability,East Asia,Severe,Low,44.5,🟡 Moderate,-0.5867173950653201
+Taiwan Strait Stability,East Asia,Severe,Low,44.4,🟡 Moderate,-0.5867173950653201
+Russia-Ukraine Conflict,Middle East,Severe,None,26.2,🟡 Moderate,-0.5867117655120301
+India-Pakistan Escalation 2025,East Asia,Severe,High,78.5,🔴 Critical,-0.5867015618991073

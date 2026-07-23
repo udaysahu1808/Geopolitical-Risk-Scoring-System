@@ -49,7 +49,7 @@ By integrating Python, SQL, Machine Learning, and Business Intelligence into a u
 
 ## 📖 Problem Statement
 
-Large volumes of geopolitical and historical conflict data are publicly available, but the absence of an integrated analytical framework makes it difficult to efficiently store, analyze, visualize and predict geopolitical risk. A common challenge faced by analysts, governments, and businesses is determining:
+Large volumes of geopolitical and historical conflict data are publicly available, but the absence of an integrated analytical framework makes it difficult to efficiently store, analyze, visualize and predict geopolitical risk. A common challenge faced by analysts, governments and businesses is determining:
 
 - Which factors (escalation, nuclear capability, cyber threat, economic impact, probability) contribute most to overall geopolitical risk.
 - How historical conflict patterns (WW1, WW2) compare with modern escalation scenarios (WW3).
@@ -57,27 +57,27 @@ Large volumes of geopolitical and historical conflict data are publicly availabl
 - Whether unusual/anomalous scenarios exist that deviate from expected risk patterns.
 - How to classify and predict the severity tier of a geopolitical scenario using machine learning.
 
-Therefore, there is a need for a comprehensive, data-driven system that combines relational database management, statistical analysis, machine learning, and business intelligence to generate accurate, actionable geopolitical risk insights.
+Therefore, there is a need for a comprehensive, data-driven system that combines relational database management, statistical analysis, machine learning and business intelligence to generate accurate, actionable geopolitical risk insights.
 
 ---
 
 ## 🎯 Objectives of the Study
 
 **Primary Objective:**
-To develop an end-to-end Geopolitical Risk Scoring System by integrating MySQL, SQL Analytics, Exploratory Data Analysis (EDA), Machine Learning, and Power BI for effective geopolitical risk assessment and decision support.
+To develop an end-to-end Geopolitical Risk Scoring System by integrating MySQL, SQL Analytics, Exploratory Data Analysis (EDA), Machine Learning and Power BI for effective geopolitical risk assessment and decision support.
 
 **Specific Objectives:**
 - To collect, clean, and preprocess historical conflict and WW3 escalation scenario data for accurate analysis and modeling.
 - To design and manage a relational database (MySQL) for efficient storage and retrieval of geopolitical data.
-- To perform SQL-based analysis for extracting meaningful insights, trends, and patterns from the dataset.
-- To conduct Exploratory Data Analysis (EDA) using Python libraries to understand the distribution, relationships, and characteristics of geopolitical events.
-- To identify major factors influencing geopolitical risk: Region, Escalation Level, Nuclear Risk, Cyber Domain, Economic Impact, and Conflict Probability.
+- To perform SQL-based analysis for extracting meaningful insights, trends and patterns from the dataset.
+- To conduct Exploratory Data Analysis (EDA) using Python libraries to understand the distribution, relationships and characteristics of geopolitical events.
+- To identify major factors influencing geopolitical risk: Region, Escalation Level, Nuclear Risk, Cyber Domain, Economic Impact and Conflict Probability.
 - To engineer a composite **Geopolitical Risk Index (0–100)** from weighted risk components.
 - To build and evaluate Machine Learning models (Logistic Regression, Random Forest, XGBoost) for predicting geopolitical risk tiers.
 - To detect anomalous conflict scenarios using Isolation Forest.
 - To segment conflicts into behavioral archetypes using K-Means clustering.
 - To develop an interactive Power BI dashboard visualizing geopolitical trends, risk scores, and analytical insights.
-- To provide data-driven recommendations supporting governments, businesses, researchers, and policymakers in strategic decision-making.
+- To provide data-driven recommendations supporting governments, businesses, researchers and policymakers in strategic decision-making.
 
 ---
 
@@ -189,6 +189,8 @@ Additionally, the project serves as a portfolio piece demonstrating real-world a
 │   ├── Top 10 Most Anomalous Scenarios.png
 │   ├── WW3 Risk Distribution.png
 │   └── WW3 Scenarios per year & Average Risk Index.png
+├── License
+├── Requriments.txt
 └── README.md
 ```
 
@@ -221,7 +223,7 @@ Additionally, the project serves as a portfolio piece demonstrating real-world a
 | WW2 | None |
 | WW3 | `nuclear_risk` — 2,523 missing |
 
-**Insight:** WW1 and WW2 datasets are fully complete. The only gap is in WW3's `nuclear_risk` field, resolved by assigning the category `"None"` — ensuring no data loss while preserving analytical consistency.
+**Insight:** WW1 and WW2 datasets are fully complete. The only gap is in WW3's `nuclear_risk` field, resolved by assigning the category `"None"` ensuring no data loss while preserving analytical consistency.
 
 ---
 
@@ -255,7 +257,7 @@ Both tables pushed to MySQL and row-count validated (20,000 and 10,000 rows resp
 
 **4.3 — Casualty Rate % by Role:** Casualty rates cluster tightly between ~28–30% across roles and conflicts, with Air roles in WW1 (30.25%) and Expeditionary roles in WW2 (30.21%) at the top.
 
-**4.4 — Top Countries by Total Casualties:** United Kingdom (2.19M k total), Italy (2.14M k), France (2.15M k), United States (2.12M k), and Germany (2.07M k) lead the ranking.
+**4.4 — Top Countries by Total Casualties:** United Kingdom (2.19M k total), Italy (2.14M k), France (2.15M k), United States (2.12M k) and Germany (2.07M k) lead the ranking.
 
 **Insight:** WW2 alliances recorded substantially higher absolute casualties than WW1 due to greater scale of mobilization; casualty rates by role remain remarkably consistent across both wars, suggesting comparable combat-intensity ratios despite different technologies and eras.
 
@@ -268,7 +270,7 @@ Both tables pushed to MySQL and row-count validated (20,000 and 10,000 rows resp
 - **Nuclear risk × cyber domain cross-tab:** Moderate nuclear risk paired with Moderate cyber domain yields the highest average probability (44.93%); combinations involving High cyber severity consistently rank in the upper range.
 - **Economic impact frequency:** "Regional recession" paired with "Mass displacement" is the most frequent high-probability combination (662 scenarios, 44.93% avg. probability).
 
-**Insight:** Escalation level and nuclear risk jointly serve as the strongest short-term predictors of conflict probability; regions such as Latin America, the Middle East, and Eastern Europe consistently surface in high-escalation cross-tabs.
+**Insight:** Escalation level and nuclear risk jointly serve as the strongest short-term predictors of conflict probability; regions such as Latin America, the Middle East and Eastern Europe consistently surface in high-escalation cross-tabs.
 
 ---
 
@@ -293,7 +295,7 @@ The raw sum is min–max normalized to a **0–100 Risk Index** and tiered:
 | 🟡 Moderate | 25–49.9 |
 | 🟢 Low | < 25 |
 
-**Top-ranked scenarios include:** Russia–Ukraine Conflict (Latin America, 100.0), Venezuela–US Tensions 2026 (Latin America, 99.8), Russia–Ukraine Conflict (East Asia, 99.6), Korean Peninsula Risk (Middle East, 98.4), Taiwan Strait Stability (Middle East, 98.3) — all classified 🔴 Critical.
+**Top-ranked scenarios include:** Russia–Ukraine Conflict (Latin America, 100.0), Venezuela–US Tensions 2026 (Latin America, 99.8), Russia–Ukraine Conflict (East Asia, 99.6), Korean Peninsula Risk (Middle East, 98.4), Taiwan Strait Stability (Middle East, 98.3) all classified 🔴 Critical.
 
 The scored table (`risk_scored_scenarios`) was pushed back to MySQL for downstream analysis.
 
@@ -313,7 +315,7 @@ The scored table (`risk_scored_scenarios`) was pushed back to MySQL for downstre
 
 **6.2 — Top Conflict Issues by Risk Index (Critical tier):** Israel–Arab Tensions (82.25), Venezuela–US Tensions 2026 (82.19), Taiwan Strait Stability (82.15), India–Pakistan Escalation 2025 (81.89), Russia–Ukraine Conflict (81.74), Korean Peninsula Risk (81.39).
 
-**Insight:** Regional average risk is remarkably narrow (49.5–50.0) across all five regions, indicating a globally distributed risk landscape rather than concentration in a single hotspot — though max risk and critical-scenario counts still differentiate regional volatility.
+**Insight:** Regional average risk is remarkably narrow (49.5–50.0) across all five regions, indicating a globally distributed risk landscape rather than concentration in a single hotspot though max risk and critical-scenario counts still differentiate regional volatility.
 
 ---
 
@@ -330,7 +332,7 @@ The scored table (`risk_scored_scenarios`) was pushed back to MySQL for downstre
 - **Radar chart:** Severe-escalation scenarios score highest across all five risk dimensions simultaneously.
 - **Year-wise trend:** scenario count and average Risk Index tracked together across years to detect emerging instability trends.
 
-**Insight:** The Geopolitical Risk Index framework is internally consistent — every underlying component contributes positively and non-redundantly to the composite score, and the classification structure (Low/Moderate/High/Critical) is visibly well-separated in feature space.
+**Insight:** The Geopolitical Risk Index framework is internally consistent — every underlying component contributes positively and non-redundantly to the composite score and the classification structure (Low/Moderate/High/Critical) is visibly well-separated in feature space.
 
 ---
 
@@ -356,9 +358,9 @@ The scored table (`risk_scored_scenarios`) was pushed back to MySQL for downstre
 
 - **Model:** `IsolationForest(contamination=0.05, random_state=42)` on standardized risk-score features.
 - **Result:** 500 anomalous scenarios detected out of 10,000 (9,500 normal).
-- **Top anomalies** recur around: Russia–Ukraine Conflict, Venezuela–US Tensions 2026, Korean Peninsula Risk, India–Pakistan Escalation 2025, and Taiwan Strait Stability — spanning both very low and very high Risk Index extremes.
+- **Top anomalies** recur around: Russia–Ukraine Conflict, Venezuela–US Tensions 2026, Korean Peninsula Risk, India–Pakistan Escalation 2025 and Taiwan Strait Stability — spanning both very low and very high Risk Index extremes.
 
-**Insight:** Anomalies occur at both ends of the risk spectrum, showing that unusual geopolitical conditions aren't limited to high-risk cases — some low-escalation scenarios also deviate meaningfully from typical patterns, making them worth deeper investigation.
+**Insight:** Anomalies occur at both ends of the risk spectrum, showing that unusual geopolitical conditions aren't limited to high-risk cases, some low-escalation scenarios also deviate meaningfully from typical patterns, making them worth deeper investigation.
 
 ---
 
@@ -399,7 +401,7 @@ Optimal cluster count selected via elbow method + silhouette score → **K = 4**
 | Cyber-Dominant | 2,607 | 45.33 | 64.04 | Latin America | Low |
 | Direct Confrontation | 2,475 | 36.56 | 21.64 | Eastern Europe | Low |
 
-**Insight:** Proxy War scenarios carry the highest average Risk Index (64.78) despite moderate probability, while Cyber-Dominant scenarios show the highest average conflict probability (64.04%) — highlighting cyber threats as a high-likelihood but comparatively lower-severity risk category. Each archetype occupies a distinct region of the risk-probability space, supporting targeted, archetype-specific strategic planning.
+**Insight:** Proxy War scenarios carry the highest average Risk Index (64.78) despite moderate probability, while Cyber-Dominant scenarios show the highest average conflict probability (64.04%), highlighting cyber threats as a high-likelihood but comparatively lower-severity risk category. Each archetype occupies a distinct region of the risk-probability space, supporting targeted, archetype-specific strategic planning.
 
 ---
 
@@ -413,9 +415,10 @@ Seven analysis-ready CSV exports generated for Power BI:
 4. `04_conflict_archetypes.csv` — conflict archetypes with cluster info
 5. `05_anomalous_scenarios.csv` — anomalous scenarios
 6. `06_equipment_analysis.csv` — equipment focus, WW1 vs WW2
-7. Yearly risk trend export
+7. `07_yearly_risk_trend.csv`— yearwise trend
+   export
 
-The final ML-enriched table (`final_risk_ml_output`) — containing risk scores, predicted tiers, anomaly flags, and archetypes — was pushed back to MySQL: **10,000 rows** verified.
+The final ML-enriched table (`final_risk_ml_output`) : containing risk scores, predicted tiers, anomaly flags, and archetypes was pushed back to MySQL: **10,000 rows** verified.
 
 **Insight:** Organizing outputs into subject-specific datasets improves dashboard performance and simplifies Power BI data modeling, while the consolidated MySQL table supports scalable downstream querying.
 

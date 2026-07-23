@@ -1,0 +1,16 @@
+issue_label,avg_risk,avg_prob_pct,risk_tier
+Israel-Arab Tensions,82.25,54.15,🔴 Critical
+Venezuela-US Tensions 2026,82.19,56.48,🔴 Critical
+Taiwan Strait Stability,82.15,52.17,🔴 Critical
+India-Pakistan Escalation 2025,81.89,55.61,🔴 Critical
+Russia-Ukraine Conflict,81.74,53.12,🔴 Critical
+Korean Peninsula Risk,81.39,54.14,🔴 Critical
+Israel-Arab Tensions,61.4,45.23,🟠 High
+Korean Peninsula Risk,61.3,47.8,🟠 High
+Taiwan Strait Stability,61.09,47.62,🟠 High
+Venezuela-US Tensions 2026,61.01,45.65,🟠 High
+India-Pakistan Escalation 2025,60.92,46.5,🟠 High
+Russia-Ukraine Conflict,60.71,45.9,🟠 High
+Korean Peninsula Risk,39.05,39.82,🟡 Moderate
+India-Pakistan Escalation 2025,39.02,40.73,🟡 Moderate
+Israel-Arab Tensions,38.86,40.95,🟡 Moderate

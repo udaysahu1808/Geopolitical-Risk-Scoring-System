@@ -165,33 +165,53 @@ Additionally, the project serves as a portfolio piece demonstrating real-world a
 ## 📁 Project Structure
 
 ```
+Geopolitical-Risk-Scoring-System/
+│
 ├── Dataset/
 │   ├── world_war_1_details.csv
 │   ├── world_war_2_details.csv
 │   └── world_war_3_scenarios.csv
+│
 ├── Notebook/
-│   └── Geopolitical Risk Scoring System.ipynb
-├── Power BI Dashboard/
-│   ├── Dashboard Visuals/
-│   │   ├── Executive Summary.png
-│   │   ├── Historical Conflicts.png
-│   │   ├── ML Insights.png
-│   │   ├── Regional Risk Ranking.png
-│   │   └── WW3 Risk Scenarios.png
-│   └── Dashboard/
-│       └── Geopolitical Risk Scoring System Dashboard.pbix
+│   └── Geopolitical_Risk_Scoring_System.ipynb
+│
+├── PowerBI/
+│   │
+│   ├── Dashboard/
+│   │   └── Geopolitical_Risk_Scoring_System.pbix
+│   │
+│   ├── Dashboard_Dataset/
+│   │   ├── 01_master_risk_scored.csv
+│   │   ├── 02_historical_casualties_summary.csv
+│   │   ├── 03_regional_risk_index.csv
+│   │   ├── 04_conflict_archetypes.csv
+│   │   ├── 05_anomalous_scenarios.csv
+│   │   ├── 06_equipment_analysis.csv
+│   │   ├── 07_yearly_risk_trend.csv
+│   │   ├── issue_risk_ranking.csv
+│   │   ├── regional_risk_index.csv
+│   │   └── top20_risk_scenarios.csv
+│   │
+│   └── Dashboard_Visuals/
+│       ├── Executive_Summary.png
+│       ├── Historical_Conflicts.png
+│       ├── ML_Insights.png
+│       ├── Regional_Risk_Ranking.png
+│       └── WW3_Risk_Scenarios.png
+│
 ├── Visuals/
-│   ├── Avg Conflict Probability - Nuclear Risk vs Cyber Domain.png
-│   ├── Casualty Distribution WW1 vs WW2.png
-│   ├── Distribution of Geopolitical Risk Index.png
-│   ├── Risk Index Distribution by Nuclear Risk Level.png
-│   ├── Scenario Count by Risk Tier.png
-│   ├── Top 10 Most Anomalous Scenarios.png
-│   ├── WW3 Risk Distribution.png
-│   └── WW3 Scenarios per year & Average Risk Index.png
-├── License
-├── Requriments.txt
-└── README.md
+│   ├── avg_conflict_probability.png
+│   ├── casualty_distribution.png
+│   ├── geopolitical_risk_distribution.png
+│   ├── nuclear_risk_distribution.png
+│   ├── scenario_count_by_risk.png
+│   ├── top10_anomalous_scenarios.png
+│   ├── ww3_risk_distribution.png
+│   └── yearly_ww3_risk_trend.png
+│
+├── README.md
+├── LICENSE
+└── requirements.txt
 ```
 
 ---
